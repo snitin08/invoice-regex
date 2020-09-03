@@ -13,11 +13,14 @@ def convert_key_value_pairs(text):
     date_field = re.search(date_regex,text)
     items_field = re.findall(item_regex,text)
     
-    print("Invoice number",invoice_field.groups())
-    print("Date",date_field.group())
-    print("Items",items_field)
+    if invoice_field is not None:
+        print(invoice_field)
+        print("Invoice number",invoice_field.groups())
+    if date_field is not None:
+        print("Date",date_field.group())
+    if item_regex is not None:
+        print("Items",items_field)
     
 
 
-convert_key_value_pairs("Order #: 69923 5/26/2016  Lunch 45.90 1 Coke 3.00 SUB TOTAL: 51.90"
-                )
+

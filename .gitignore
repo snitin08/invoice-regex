@@ -10,3 +10,19 @@ Papers/Text_Extraction_and_Recognition_from_Image_using_N.pdf
 large-receipt-image-dataset-SRD.zip
 Problem statement.docx
 QS-OCR-Large.tar.gz
+code/dependencies/lxml-4.5.2-cp38-cp38-win_amd64.whl
+code/__pycache__/utils.cpython-37.pyc
+my_project/config.json
+my_project/config.xml
+my_project/source.json
+my_project/tasks.json
+my_project/completions/0.json
+my_project/completions/1.json
+my_project/completions/2.json
+my_project/export/2020-09-02-17-28-10.zip
+my_project/export/2020-09-02-17-29-21.zip
+my_project/export/2020-09-02-17-35-15.zip
+my_project/upload/c41a624f0ab57363233189c0ba03eaa7-address_data
+Dataset/address_data_nlp/2020-09-02-17-35-15.zip
+code/result.png
+code/test.png
