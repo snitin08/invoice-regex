@@ -1,0 +1,5007 @@
+[
+  {
+    "text": "Katana sushi 2818 hewitt ave everett, WA 98201 425-512-9361 server: Michael C 05/11/18 8:47 PM Check #93 Table 02 Hemachi collar $12.00 Mega poke bowl $17.00 Hamachi - Sashimi $12.00 Maguro - Sashimi $11.00 Salmon Sashimi $10.00 3 Sockeye Salmon - Sashimi $36.00 Hamachi Japapeno $12.00 Salmon Collar $10.00 Escolar - Sashimi $11.00 subtotal $131.00 tax $12.71 total $143.71 153.71 tnak you foryour visit.",
+    "label": [
+      {
+        "end": 12,
+        "labels": [
+          "Company"
+        ],
+        "start": 0,
+        "text": "Katana sushi"
+      },
+      {
+        "end": 59,
+        "labels": [
+          "Address"
+        ],
+        "start": 13,
+        "text": "2818 hewitt ave everett, WA 98201 425-512-9361"
+      },
+      {
+        "end": 75,
+        "labels": [
+          "Person"
+        ],
+        "start": 68,
+        "text": "Michael"
+      },
+      {
+        "end": 86,
+        "labels": [
+          "Date"
+        ],
+        "start": 78,
+        "text": "05/11/18"
+      },
+      {
+        "end": 94,
+        "labels": [
+          "Time"
+        ],
+        "start": 87,
+        "text": "8:47 PM"
+      },
+      {
+        "end": 104,
+        "labels": [
+          "Invoice"
+        ],
+        "start": 101,
+        "text": "#93"
+      },
+      {
+        "end": 135,
+        "labels": [
+          "Product"
+        ],
+        "start": 114,
+        "text": "Hemachi collar $12.00"
+      },
+      {
+        "end": 157,
+        "labels": [
+          "Product"
+        ],
+        "start": 136,
+        "text": "Mega poke bowl $17.00"
+      },
+      {
+        "end": 182,
+        "labels": [
+          "Product"
+        ],
+        "start": 158,
+        "text": "Hamachi - Sashimi $12.00"
+      },
+      {
+        "end": 206,
+        "labels": [
+          "Product"
+        ],
+        "start": 183,
+        "text": "Maguro - Sashimi $11.00"
+      },
+      {
+        "end": 228,
+        "labels": [
+          "Product"
+        ],
+        "start": 207,
+        "text": "Salmon Sashimi $10.00"
+      },
+      {
+        "end": 262,
+        "labels": [
+          "Product"
+        ],
+        "start": 229,
+        "text": "3 Sockeye Salmon - Sashimi $36.00"
+      },
+      {
+        "end": 286,
+        "labels": [
+          "Product"
+        ],
+        "start": 263,
+        "text": "Hamachi Japapeno $12.00"
+      },
+      {
+        "end": 307,
+        "labels": [
+          "Product"
+        ],
+        "start": 287,
+        "text": "Salmon Collar $10.00"
+      },
+      {
+        "end": 332,
+        "labels": [
+          "Product"
+        ],
+        "start": 308,
+        "text": "Escolar - Sashimi $11.00"
+      },
+      {
+        "end": 349,
+        "labels": [
+          "Amount"
+        ],
+        "start": 333,
+        "text": "subtotal $131.00"
+      },
+      {
+        "end": 360,
+        "labels": [
+          "Amount"
+        ],
+        "start": 350,
+        "text": "tax $12.71"
+      },
+      {
+        "end": 374,
+        "labels": [
+          "Amount"
+        ],
+        "start": 361,
+        "text": "total $143.71"
+      }
+    ]
+  },
+  {
+    "text": "Dona Mercedes Restaurant 1030 1/2 San Fernando rd San Fernando CA 91341 Vero CENTERL 1 CHicharon $2.25 3 Pupusa Queso $6.75 1 Platanos Orden $7.75 1 Diet coke $1.50 2 Quesadilla salvadorena $4.00 subtotal: $22.25 tax: $2.22 total: $24.47 tip suggestions 18%: $4.40 20%: $4.89 25%: $6.12 Thank you!",
+    "label": [
+      {
+        "end": 24,
+        "labels": [
+          "Company"
+        ],
+        "start": 0,
+        "text": "Dona Mercedes Restaurant"
+      },
+      {
+        "end": 71,
+        "labels": [
+          "Address"
+        ],
+        "start": 25,
+        "text": "1030 1/2 San Fernando rd San Fernando CA 91341"
+      },
+      {
+        "end": 102,
+        "labels": [
+          "Product"
+        ],
+        "start": 85,
+        "text": "1 CHicharon $2.25"
+      },
+      {
+        "end": 123,
+        "labels": [
+          "Product"
+        ],
+        "start": 103,
+        "text": "3 Pupusa Queso $6.75"
+      },
+      {
+        "end": 146,
+        "labels": [
+          "Product"
+        ],
+        "start": 124,
+        "text": "1 Platanos Orden $7.75"
+      },
+      {
+        "end": 164,
+        "labels": [
+          "Product"
+        ],
+        "start": 147,
+        "text": "1 Diet coke $1.50"
+      },
+      {
+        "end": 195,
+        "labels": [
+          "Product"
+        ],
+        "start": 165,
+        "text": "2 Quesadilla salvadorena $4.00"
+      },
+      {
+        "end": 212,
+        "labels": [
+          "Amount"
+        ],
+        "start": 196,
+        "text": "subtotal: $22.25"
+      },
+      {
+        "end": 223,
+        "labels": [
+          "Amount"
+        ],
+        "start": 213,
+        "text": "tax: $2.22"
+      },
+      {
+        "end": 237,
+        "labels": [
+          "Amount"
+        ],
+        "start": 224,
+        "text": "total: $24.47"
+      }
+    ]
+  },
+  {
+    "text": "Bella Pasta 223 Neuport AYe Pavtucket RI 02861 (401) 722-6297 www.bellapastaristorante.com check us out on google/facebook/yelp/trip advisor server: PM BAR P 08/09/19 4:28 PM Check #4 Table 21 Steak tip Skewers $12.99 Piatto Gorgonzola $12.99 Root beer $2.50 subtotal $28.48 tax $2.28 total $30.76 Check us out on Grub hub and Uber Eats for delivery!!! Restaurant hours Sunday: 3:00PM - 8:00PM",
+    "label": [
+      {
+        "end": 11,
+        "labels": [
+          "Company"
+        ],
+        "start": 0,
+        "text": "Bella Pasta"
+      },
+      {
+        "end": 61,
+        "labels": [
+          "Address"
+        ],
+        "start": 12,
+        "text": "223 Neuport AYe Pavtucket RI 02861 (401) 722-6297"
+      },
+      {
+        "end": 90,
+        "labels": [
+          "Email"
+        ],
+        "start": 62,
+        "text": "www.bellapastaristorante.com"
+      },
+      {
+        "end": 155,
+        "labels": [
+          "Person"
+        ],
+        "start": 149,
+        "text": "PM BAR"
+      },
+      {
+        "end": 166,
+        "labels": [
+          "Date"
+        ],
+        "start": 158,
+        "text": "08/09/19"
+      },
+      {
+        "end": 174,
+        "labels": [
+          "Time"
+        ],
+        "start": 167,
+        "text": "4:28 PM"
+      },
+      {
+        "end": 183,
+        "labels": [
+          "Invoice"
+        ],
+        "start": 181,
+        "text": "#4"
+      },
+      {
+        "end": 217,
+        "labels": [
+          "Product"
+        ],
+        "start": 193,
+        "text": "Steak tip Skewers $12.99"
+      },
+      {
+        "end": 242,
+        "labels": [
+          "Product"
+        ],
+        "start": 218,
+        "text": "Piatto Gorgonzola $12.99"
+      },
+      {
+        "end": 258,
+        "labels": [
+          "Product"
+        ],
+        "start": 243,
+        "text": "Root beer $2.50"
+      },
+      {
+        "end": 274,
+        "labels": [
+          "Amount"
+        ],
+        "start": 259,
+        "text": "subtotal $28.48"
+      },
+      {
+        "end": 284,
+        "labels": [
+          "Amount"
+        ],
+        "start": 275,
+        "text": "tax $2.28"
+      },
+      {
+        "end": 297,
+        "labels": [
+          "Amount"
+        ],
+        "start": 285,
+        "text": "total $30.76"
+      },
+      {
+        "end": 393,
+        "labels": [
+          "Time"
+        ],
+        "start": 378,
+        "text": "3:00PM - 8:00PM"
+      }
+    ]
+  },
+  {
+    "text": "Friendly Red's of WIndham 22 Haverhill Rd WIndham NH 603-437-7251 Server: Giancarlo 07/21/2018 104/1 12:56 PM Guests: 2 10076 Reprint #:1 Cadillac Margarita (2 @14.00) 28.00 Patron Silver Maryland Crab Cakes 14.00 Chicken Caprese 12.00 Chix Parm Sandwich 10.00 Bud light (2 @3.70) 7.40 subtotal 71.40 tax 6.43 total 77.83 balance due 77.83 Join us on Facebook &",
+    "label": [
+      {
+        "end": 25,
+        "labels": [
+          "Company"
+        ],
+        "start": 0,
+        "text": "Friendly Red's of WIndham"
+      },
+      {
+        "end": 65,
+        "labels": [
+          "Address"
+        ],
+        "start": 26,
+        "text": "22 Haverhill Rd WIndham NH 603-437-7251"
+      },
+      {
+        "end": 83,
+        "labels": [
+          "Person"
+        ],
+        "start": 74,
+        "text": "Giancarlo"
+      },
+      {
+        "end": 94,
+        "labels": [
+          "Date"
+        ],
+        "start": 84,
+        "text": "07/21/2018"
+      },
+      {
+        "end": 109,
+        "labels": [
+          "Time"
+        ],
+        "start": 101,
+        "text": "12:56 PM"
+      },
+      {
+        "end": 125,
+        "labels": [
+          "Invoice"
+        ],
+        "start": 120,
+        "text": "10076"
+      },
+      {
+        "end": 173,
+        "labels": [
+          "Product"
+        ],
+        "start": 138,
+        "text": "Cadillac Margarita (2 @14.00) 28.00"
+      },
+      {
+        "end": 213,
+        "labels": [
+          "Product"
+        ],
+        "start": 174,
+        "text": "Patron Silver Maryland Crab Cakes 14.00"
+      },
+      {
+        "end": 235,
+        "labels": [
+          "Product"
+        ],
+        "start": 213,
+        "text": " Chicken Caprese 12.00"
+      },
+      {
+        "end": 260,
+        "labels": [
+          "Product"
+        ],
+        "start": 236,
+        "text": "Chix Parm Sandwich 10.00"
+      },
+      {
+        "end": 285,
+        "labels": [
+          "Product"
+        ],
+        "start": 261,
+        "text": "Bud light (2 @3.70) 7.40"
+      },
+      {
+        "end": 300,
+        "labels": [
+          "Amount"
+        ],
+        "start": 286,
+        "text": "subtotal 71.40"
+      },
+      {
+        "end": 309,
+        "labels": [
+          "Amount"
+        ],
+        "start": 301,
+        "text": "tax 6.43"
+      },
+      {
+        "end": 321,
+        "labels": [
+          "Amount"
+        ],
+        "start": 309,
+        "text": " total 77.83"
+      },
+      {
+        "end": 339,
+        "labels": [
+          "Amount"
+        ],
+        "start": 322,
+        "text": "balance due 77.83"
+      },
+      {
+        "end": 359,
+        "labels": [
+          "Company"
+        ],
+        "start": 351,
+        "text": "Facebook"
+      }
+    ]
+  },
+  {
+    "text": "Quick 73 Smoke City Market 5242 Van Nuys BLVD Sherman Oaks, CA 91401 818 885 1280 Server: Rebecca B Printed By: Rebecca B S1 ID: 234673 #1 Jun 26, 15 04:55PM 1 Beef Ribs $36.86 Weight 1.89 lbs @ $ 19.50/lbs 1 Pulled Pork stand $8.50 1 *Reg $0.00 1 creamed corn [Small] $3.35 1 Longhorn Mac & Cheese [sm] $4.20 1 Chocolate cake[Slice] $3.95 1 Fountain soda $2.25 subtotal $59.11 CA Sales tax $5.32 Total $64.43 Wells Fargo $64.43 change $0.00 Thank you for visiting please visit our website: www.smokecitymarket.com Enjoy our BBQ? Like us on facebook and Yelp Please rate us on Zagat www.zagat.com/r/smoke-city-market-van-nuy",
+    "label": [
+      {
+        "end": 26,
+        "labels": [
+          "Company"
+        ],
+        "start": 0,
+        "text": "Quick 73 Smoke City Market"
+      },
+      {
+        "end": 81,
+        "labels": [
+          "Address"
+        ],
+        "start": 27,
+        "text": "5242 Van Nuys BLVD Sherman Oaks, CA 91401 818 885 1280"
+      },
+      {
+        "end": 97,
+        "labels": [
+          "Person"
+        ],
+        "start": 90,
+        "text": "Rebecca"
+      },
+      {
+        "end": 119,
+        "labels": [
+          "Person"
+        ],
+        "start": 112,
+        "text": "Rebecca"
+      },
+      {
+        "end": 135,
+        "labels": [
+          "Invoice"
+        ],
+        "start": 129,
+        "text": "234673"
+      },
+      {
+        "end": 149,
+        "labels": [
+          "Date"
+        ],
+        "start": 139,
+        "text": "Jun 26, 15"
+      },
+      {
+        "end": 157,
+        "labels": [
+          "Time"
+        ],
+        "start": 150,
+        "text": "04:55PM"
+      },
+      {
+        "end": 176,
+        "labels": [
+          "Product"
+        ],
+        "start": 158,
+        "text": "1 Beef Ribs $36.86"
+      },
+      {
+        "end": 232,
+        "labels": [
+          "Product"
+        ],
+        "start": 207,
+        "text": "1 Pulled Pork stand $8.50"
+      },
+      {
+        "end": 274,
+        "labels": [
+          "Product"
+        ],
+        "start": 246,
+        "text": "1 creamed corn [Small] $3.35"
+      },
+      {
+        "end": 309,
+        "labels": [
+          "Product"
+        ],
+        "start": 275,
+        "text": "1 Longhorn Mac & Cheese [sm] $4.20"
+      },
+      {
+        "end": 339,
+        "labels": [
+          "Product"
+        ],
+        "start": 310,
+        "text": "1 Chocolate cake[Slice] $3.95"
+      },
+      {
+        "end": 361,
+        "labels": [
+          "Product"
+        ],
+        "start": 340,
+        "text": "1 Fountain soda $2.25"
+      },
+      {
+        "end": 377,
+        "labels": [
+          "Amount"
+        ],
+        "start": 362,
+        "text": "subtotal $59.11"
+      },
+      {
+        "end": 396,
+        "labels": [
+          "Amount"
+        ],
+        "start": 381,
+        "text": "Sales tax $5.32"
+      },
+      {
+        "end": 409,
+        "labels": [
+          "Amount"
+        ],
+        "start": 397,
+        "text": "Total $64.43"
+      },
+      {
+        "end": 428,
+        "labels": [
+          "Amount"
+        ],
+        "start": 416,
+        "text": "Fargo $64.43"
+      },
+      {
+        "end": 441,
+        "labels": [
+          "Amount"
+        ],
+        "start": 429,
+        "text": "change $0.00"
+      },
+      {
+        "end": 514,
+        "labels": [
+          "Email"
+        ],
+        "start": 491,
+        "text": "www.smokecitymarket.com"
+      },
+      {
+        "end": 549,
+        "labels": [
+          "Company"
+        ],
+        "start": 541,
+        "text": "facebook"
+      },
+      {
+        "end": 624,
+        "labels": [
+          "Email"
+        ],
+        "start": 583,
+        "text": "www.zagat.com/r/smoke-city-market-van-nuy"
+      }
+    ]
+  },
+  {
+    "text": "#14 HP Pho Ga 8930 Mission Dr. #102 Rosemead, CA 91770 Phone (626)288-9999 Date: APr 01, 2019 Time: 05:12PM Server: Admin Bill: 59980 Table: 14 1 Pho Ga (Small) 8.00 1 Pho Ga (Large) 9.00 1 Goi Cuon 5.25 subtotal 22.25 tax 2.11 total 24.36 S. service charge 40% 8.90 total $33.26 suggested tip: 15% (3.65) 18% (4.38) 20% (4.87) open time: APr 01, 2019 04:39PM Printed by: Admin Thank you for coming!",
+    "label": [
+      {
+        "end": 13,
+        "labels": [
+          "Company"
+        ],
+        "start": 4,
+        "text": "HP Pho Ga"
+      },
+      {
+        "end": 93,
+        "labels": [
+          "Date"
+        ],
+        "start": 81,
+        "text": "APr 01, 2019"
+      },
+      {
+        "end": 107,
+        "labels": [
+          "Time"
+        ],
+        "start": 100,
+        "text": "05:12PM"
+      },
+      {
+        "end": 121,
+        "labels": [
+          "Person"
+        ],
+        "start": 116,
+        "text": "Admin"
+      },
+      {
+        "end": 133,
+        "labels": [
+          "Invoice"
+        ],
+        "start": 128,
+        "text": "59980"
+      },
+      {
+        "end": 165,
+        "labels": [
+          "Product"
+        ],
+        "start": 144,
+        "text": "1 Pho Ga (Small) 8.00"
+      },
+      {
+        "end": 187,
+        "labels": [
+          "Product"
+        ],
+        "start": 166,
+        "text": "1 Pho Ga (Large) 9.00"
+      },
+      {
+        "end": 203,
+        "labels": [
+          "Product"
+        ],
+        "start": 188,
+        "text": "1 Goi Cuon 5.25"
+      },
+      {
+        "end": 218,
+        "labels": [
+          "Amount"
+        ],
+        "start": 204,
+        "text": "subtotal 22.25"
+      },
+      {
+        "end": 227,
+        "labels": [
+          "Amount"
+        ],
+        "start": 219,
+        "text": "tax 2.11"
+      },
+      {
+        "end": 239,
+        "labels": [
+          "Amount"
+        ],
+        "start": 228,
+        "text": "total 24.36"
+      },
+      {
+        "end": 266,
+        "labels": [
+          "Amount"
+        ],
+        "start": 243,
+        "text": "service charge 40% 8.90"
+      },
+      {
+        "end": 279,
+        "labels": [
+          "Amount"
+        ],
+        "start": 267,
+        "text": "total $33.26"
+      },
+      {
+        "end": 351,
+        "labels": [
+          "Date"
+        ],
+        "start": 339,
+        "text": "APr 01, 2019"
+      },
+      {
+        "end": 359,
+        "labels": [
+          "Time"
+        ],
+        "start": 352,
+        "text": "04:39PM"
+      },
+      {
+        "end": 377,
+        "labels": [
+          "Person"
+        ],
+        "start": 372,
+        "text": "Admin"
+      },
+      {
+        "end": 74,
+        "labels": [
+          "Address"
+        ],
+        "start": 14,
+        "text": "8930 Mission Dr. #102 Rosemead, CA 91770 Phone (626)288-9999"
+      }
+    ]
+  },
+  {
+    "text": "LBETOS Mexican food 11732 Artesia blvd Artesia, CA, Ph: (562) 860-2530 Phone orders welcome order # 01029 3 Asada taco 8.10 ATM charge 0.75 subtotal $8.85 tax total $0.73 total $9.58 ATM $9.58 recall :636",
+    "label": [
+      {
+        "end": 19,
+        "labels": [
+          "Company"
+        ],
+        "start": 0,
+        "text": "LBETOS Mexican food"
+      },
+      {
+        "end": 70,
+        "labels": [
+          "Address"
+        ],
+        "start": 20,
+        "text": "11732 Artesia blvd Artesia, CA, Ph: (562) 860-2530"
+      },
+      {
+        "end": 105,
+        "labels": [
+          "Invoice"
+        ],
+        "start": 92,
+        "text": "order # 01029"
+      },
+      {
+        "end": 123,
+        "labels": [
+          "Product"
+        ],
+        "start": 108,
+        "text": "Asada taco 8.10"
+      },
+      {
+        "end": 139,
+        "labels": [
+          "Product"
+        ],
+        "start": 124,
+        "text": "ATM charge 0.75"
+      },
+      {
+        "end": 154,
+        "labels": [
+          "Amount"
+        ],
+        "start": 140,
+        "text": "subtotal $8.85"
+      },
+      {
+        "end": 170,
+        "labels": [
+          "Amount"
+        ],
+        "start": 155,
+        "text": "tax total $0.73"
+      },
+      {
+        "end": 182,
+        "labels": [
+          "Amount"
+        ],
+        "start": 171,
+        "text": "total $9.58"
+      },
+      {
+        "end": 192,
+        "labels": [
+          "Amount"
+        ],
+        "start": 183,
+        "text": "ATM $9.58"
+      }
+    ]
+  },
+  {
+    "text": "Loaded cafe 15700 Bellflower blvd Bellflower, CA 90706 135 Nathalie T Tbl 34/1 Chk 2763 Gst 2 Feb23'19 10:23AM Dine In 2 ENchi Omelete 25.98 Shredded BEEF 1 open food 3.19 shredded beeg 1 open food 3.19 1 hashbrowns side 2.99 1 hashbrowns side 2.99 1 coffee hot 2.99 1 diet coke 2.99 subtotal 44.32 tax 4.21 10:51AM total due 48.53 Thank you for visiting",
+    "label": [
+      {
+        "end": 54,
+        "labels": [
+          "Address"
+        ],
+        "start": 0,
+        "text": "Loaded cafe 15700 Bellflower blvd Bellflower, CA 90706"
+      },
+      {
+        "end": 67,
+        "labels": [
+          "Person"
+        ],
+        "start": 59,
+        "text": "Nathalie"
+      },
+      {
+        "end": 102,
+        "labels": [
+          "Date"
+        ],
+        "start": 92,
+        "text": "2 Feb23'19"
+      },
+      {
+        "end": 110,
+        "labels": [
+          "Time"
+        ],
+        "start": 103,
+        "text": "10:23AM"
+      },
+      {
+        "end": 140,
+        "labels": [
+          "Product"
+        ],
+        "start": 121,
+        "text": "ENchi Omelete 25.98"
+      },
+      {
+        "end": 156,
+        "labels": [
+          "Product"
+        ],
+        "start": 141,
+        "text": "Shredded BEEF 1"
+      },
+      {
+        "end": 171,
+        "labels": [
+          "Product"
+        ],
+        "start": 157,
+        "text": "open food 3.19"
+      },
+      {
+        "end": 187,
+        "labels": [
+          "Product"
+        ],
+        "start": 172,
+        "text": "shredded beeg 1"
+      },
+      {
+        "end": 202,
+        "labels": [
+          "Product"
+        ],
+        "start": 188,
+        "text": "open food 3.19"
+      },
+      {
+        "end": 225,
+        "labels": [
+          "Product"
+        ],
+        "start": 203,
+        "text": "1 hashbrowns side 2.99"
+      },
+      {
+        "end": 248,
+        "labels": [
+          "Product"
+        ],
+        "start": 226,
+        "text": "1 hashbrowns side 2.99"
+      },
+      {
+        "end": 266,
+        "labels": [
+          "Product"
+        ],
+        "start": 249,
+        "text": "1 coffee hot 2.99"
+      },
+      {
+        "end": 283,
+        "labels": [
+          "Product"
+        ],
+        "start": 267,
+        "text": "1 diet coke 2.99"
+      },
+      {
+        "end": 298,
+        "labels": [
+          "Amount"
+        ],
+        "start": 284,
+        "text": "subtotal 44.32"
+      },
+      {
+        "end": 307,
+        "labels": [
+          "Amount"
+        ],
+        "start": 299,
+        "text": "tax 4.21"
+      },
+      {
+        "end": 315,
+        "labels": [
+          "Time"
+        ],
+        "start": 308,
+        "text": "10:51AM"
+      },
+      {
+        "end": 331,
+        "labels": [
+          "Amount"
+        ],
+        "start": 316,
+        "text": "total due 48.53"
+      }
+    ]
+  },
+  {
+    "text": "Hammocks trading company www.hammockstradingcompany.com 7285 Roswell road Sandy springs, Georgia 30328 770-395-9592 Tbl:40 Ref: 155091 Chk: 202524 Shannon 3/10/27 6:23 pm Coke 2.50 shrimp entree 21.00 mac n cheese french fries nnq & blue chz chips discount: BBQ & blue chz -6.00 sprite lobster roll 21.00 subtotal 47.00 state tax 3.29 total 50.29 total due 50.29 1/2 Priced Oysters on the half shell 4-6 pm daily",
+    "label": [
+      {
+        "end": 24,
+        "labels": [
+          "Company"
+        ],
+        "start": 0,
+        "text": "Hammocks trading company"
+      },
+      {
+        "end": 55,
+        "labels": [
+          "Email"
+        ],
+        "start": 25,
+        "text": "www.hammockstradingcompany.com"
+      },
+      {
+        "end": 115,
+        "labels": [
+          "Address"
+        ],
+        "start": 56,
+        "text": "7285 Roswell road Sandy springs, Georgia 30328 770-395-9592"
+      },
+      {
+        "end": 134,
+        "labels": [
+          "Invoice"
+        ],
+        "start": 128,
+        "text": "155091"
+      },
+      {
+        "end": 162,
+        "labels": [
+          "Date"
+        ],
+        "start": 155,
+        "text": "3/10/27"
+      },
+      {
+        "end": 170,
+        "labels": [
+          "Time"
+        ],
+        "start": 163,
+        "text": "6:23 pm"
+      },
+      {
+        "end": 180,
+        "labels": [
+          "Product"
+        ],
+        "start": 171,
+        "text": "Coke 2.50"
+      },
+      {
+        "end": 200,
+        "labels": [
+          "Product"
+        ],
+        "start": 181,
+        "text": "shrimp entree 21.00"
+      },
+      {
+        "end": 226,
+        "labels": [
+          "Product"
+        ],
+        "start": 201,
+        "text": "mac n cheese french fries"
+      },
+      {
+        "end": 247,
+        "labels": [
+          "Product"
+        ],
+        "start": 227,
+        "text": "nnq & blue chz chips"
+      },
+      {
+        "end": 278,
+        "labels": [
+          "Product"
+        ],
+        "start": 258,
+        "text": "BBQ & blue chz -6.00"
+      },
+      {
+        "end": 304,
+        "labels": [
+          "Product"
+        ],
+        "start": 279,
+        "text": "sprite lobster roll 21.00"
+      },
+      {
+        "end": 319,
+        "labels": [
+          "Amount"
+        ],
+        "start": 305,
+        "text": "subtotal 47.00"
+      },
+      {
+        "end": 334,
+        "labels": [
+          "Amount"
+        ],
+        "start": 320,
+        "text": "state tax 3.29"
+      },
+      {
+        "end": 346,
+        "labels": [
+          "Amount"
+        ],
+        "start": 335,
+        "text": "total 50.29"
+      },
+      {
+        "end": 362,
+        "labels": [
+          "Amount"
+        ],
+        "start": 347,
+        "text": "total due 50.29"
+      }
+    ]
+  },
+  {
+    "text": "Chef wang 1902 Jericho turnpike New Hyde Park NY 11040 Tel: 516.354.2858 Fax: 516.776.0587 A5 Dine In #1022 Server: lily 02/02/19 2 Person 02:14PM - 03:03 PM 1 Seallion pancake $5.25 1 little juicy pork buns $9.95 1 beef w bak choy (L) $8.75 1 Hunan Beef (L) $8.75 subtotal $32.70 sales tax $2.82 total $35.52 thank you have a nice day",
+    "label": [
+      {
+        "end": 9,
+        "labels": [
+          "Company"
+        ],
+        "start": 0,
+        "text": "Chef wang"
+      },
+      {
+        "end": 90,
+        "labels": [
+          "Address"
+        ],
+        "start": 10,
+        "text": "1902 Jericho turnpike New Hyde Park NY 11040 Tel: 516.354.2858 Fax: 516.776.0587"
+      },
+      {
+        "end": 107,
+        "labels": [
+          "Invoice"
+        ],
+        "start": 102,
+        "text": "#1022"
+      },
+      {
+        "end": 120,
+        "labels": [
+          "Person"
+        ],
+        "start": 116,
+        "text": "lily"
+      },
+      {
+        "end": 129,
+        "labels": [
+          "Date"
+        ],
+        "start": 121,
+        "text": "02/02/19"
+      },
+      {
+        "end": 157,
+        "labels": [
+          "Time"
+        ],
+        "start": 139,
+        "text": "02:14PM - 03:03 PM"
+      },
+      {
+        "end": 182,
+        "labels": [
+          "Product"
+        ],
+        "start": 158,
+        "text": "1 Seallion pancake $5.25"
+      },
+      {
+        "end": 213,
+        "labels": [
+          "Product"
+        ],
+        "start": 183,
+        "text": "1 little juicy pork buns $9.95"
+      },
+      {
+        "end": 241,
+        "labels": [
+          "Product"
+        ],
+        "start": 214,
+        "text": "1 beef w bak choy (L) $8.75"
+      },
+      {
+        "end": 264,
+        "labels": [
+          "Product"
+        ],
+        "start": 242,
+        "text": "1 Hunan Beef (L) $8.75"
+      },
+      {
+        "end": 280,
+        "labels": [
+          "Amount"
+        ],
+        "start": 265,
+        "text": "subtotal $32.70"
+      },
+      {
+        "end": 296,
+        "labels": [
+          "Amount"
+        ],
+        "start": 281,
+        "text": "sales tax $2.82"
+      },
+      {
+        "end": 309,
+        "labels": [
+          "Amount"
+        ],
+        "start": 296,
+        "text": " total $35.52"
+      }
+    ]
+  },
+  {
+    "text": "UMIX 4327 N. Expressway 77/83 956-350-8686 Brownsville, TX 78521 956-543-5089 Ticket #215406 User: KRIST Station: 1 Sales Rep KRIST 4/24/2016 6:30:31 PM Item Qty Price Total Description 100027 1 5.25 5.25 PARIS 100026 1 4.95 4.95 LE CLASSIQUE subtotal 10.20 tax 0.84 total 11.04 tender: cash 20.00 change -8.96 Number of items purchased: 2",
+    "label": [
+      {
+        "end": 4,
+        "labels": [
+          "Company"
+        ],
+        "start": 0,
+        "text": "UMIX"
+      },
+      {
+        "end": 53,
+        "labels": [
+          "Address"
+        ],
+        "start": 5,
+        "text": "4327 N. Expressway 77/83 956-350-8686 Brownsvill"
+      },
+      {
+        "end": 92,
+        "labels": [
+          "Invoice"
+        ],
+        "start": 78,
+        "text": "Ticket #215406"
+      },
+      {
+        "end": 104,
+        "labels": [
+          "Person"
+        ],
+        "start": 99,
+        "text": "KRIST"
+      },
+      {
+        "end": 141,
+        "labels": [
+          "Date"
+        ],
+        "start": 132,
+        "text": "4/24/2016"
+      },
+      {
+        "end": 152,
+        "labels": [
+          "Time"
+        ],
+        "start": 142,
+        "text": "6:30:31 PM"
+      },
+      {
+        "end": 210,
+        "labels": [
+          "Product"
+        ],
+        "start": 186,
+        "text": "100027 1 5.25 5.25 PARIS"
+      },
+      {
+        "end": 242,
+        "labels": [
+          "Product"
+        ],
+        "start": 211,
+        "text": "100026 1 4.95 4.95 LE CLASSIQUE"
+      },
+      {
+        "end": 257,
+        "labels": [
+          "Amount"
+        ],
+        "start": 243,
+        "text": "subtotal 10.20"
+      },
+      {
+        "end": 266,
+        "labels": [
+          "Amount"
+        ],
+        "start": 258,
+        "text": "tax 0.84"
+      },
+      {
+        "end": 278,
+        "labels": [
+          "Amount"
+        ],
+        "start": 267,
+        "text": "total 11.04"
+      },
+      {
+        "end": 297,
+        "labels": [
+          "Amount"
+        ],
+        "start": 279,
+        "text": "tender: cash 20.00"
+      },
+      {
+        "end": 310,
+        "labels": [
+          "Amount"
+        ],
+        "start": 298,
+        "text": "change -8.96"
+      }
+    ]
+  },
+  {
+    "text": "2012-04-27 L1 T1 12:49 PM YOUR GUEST NUMBER IS 12 IN-N-OUT BURGER SANTA CLARA 2012-04-27 12:48 PM 176 1 262 1110 Cashier: KEVIN DU Check: 12 Hamb 2.00 W GR X L X T M Inst pro COunter - take out tax 8.25% 0.17 amount due $2.17 cash tender $3.00 change $0.83 THANK YOU! 2012-04-27 L1 T1 12:49 PM",
+    "label": [
+      {
+        "end": 10,
+        "labels": [
+          "Date"
+        ],
+        "start": 0,
+        "text": "2012-04-27"
+      },
+      {
+        "end": 25,
+        "labels": [
+          "Time"
+        ],
+        "start": 17,
+        "text": "12:49 PM"
+      },
+      {
+        "end": 49,
+        "labels": [
+          "Invoice"
+        ],
+        "start": 37,
+        "text": "NUMBER IS 12"
+      },
+      {
+        "end": 88,
+        "labels": [
+          "Date"
+        ],
+        "start": 78,
+        "text": "2012-04-27"
+      },
+      {
+        "end": 97,
+        "labels": [
+          "Time"
+        ],
+        "start": 89,
+        "text": "12:48 PM"
+      },
+      {
+        "end": 127,
+        "labels": [
+          "Person"
+        ],
+        "start": 122,
+        "text": "KEVIN"
+      },
+      {
+        "end": 208,
+        "labels": [
+          "Amount"
+        ],
+        "start": 194,
+        "text": "tax 8.25% 0.17"
+      },
+      {
+        "end": 225,
+        "labels": [
+          "Amount"
+        ],
+        "start": 209,
+        "text": "amount due $2.17"
+      },
+      {
+        "end": 243,
+        "labels": [
+          "Amount"
+        ],
+        "start": 226,
+        "text": "cash tender $3.00"
+      },
+      {
+        "end": 256,
+        "labels": [
+          "Amount"
+        ],
+        "start": 244,
+        "text": "change $0.83"
+      },
+      {
+        "end": 278,
+        "labels": [
+          "Date"
+        ],
+        "start": 268,
+        "text": "2012-04-27"
+      },
+      {
+        "end": 293,
+        "labels": [
+          "Time"
+        ],
+        "start": 285,
+        "text": "12:49 PM"
+      }
+    ]
+  },
+  {
+    "text": "Grotto Pizzeria & Tavern 2441 Van Horn Trenton, MI 48183 (734) 692-4300 Server: Trinity Station: 2 Order #: 22037 Dine In Table: 11 Guests: 2 1 Ultra 2.50 1 Bells Draft 5.00 1 Cheese bread 1 APPS OUT FIRST 0.00 1 Caprese 7.00 1 Salad OUT FIRST 0.00 1 Reg Carnivore (s) 12.50 Pepper Rings (s) 1 Reg Margherita (s) 10.00 sub total: 43.00 Tax 1: 2.58 Total: $45.58 Ticket #: 128 5/12/2017 7:48:12 PM THANK YOU!",
+    "label": [
+      {
+        "end": 24,
+        "labels": [
+          "Company"
+        ],
+        "start": 0,
+        "text": "Grotto Pizzeria & Tavern"
+      },
+      {
+        "end": 71,
+        "labels": [
+          "Address"
+        ],
+        "start": 25,
+        "text": "2441 Van Horn Trenton, MI 48183 (734) 692-4300"
+      },
+      {
+        "end": 87,
+        "labels": [
+          "Person"
+        ],
+        "start": 80,
+        "text": "Trinity"
+      },
+      {
+        "end": 113,
+        "labels": [
+          "Invoice"
+        ],
+        "start": 99,
+        "text": "Order #: 22037"
+      },
+      {
+        "end": 154,
+        "labels": [
+          "Product"
+        ],
+        "start": 142,
+        "text": "1 Ultra 2.50"
+      },
+      {
+        "end": 173,
+        "labels": [
+          "Product"
+        ],
+        "start": 155,
+        "text": "1 Bells Draft 5.00"
+      },
+      {
+        "end": 188,
+        "labels": [
+          "Product"
+        ],
+        "start": 174,
+        "text": "1 Cheese bread"
+      },
+      {
+        "end": 210,
+        "labels": [
+          "Product"
+        ],
+        "start": 189,
+        "text": "1 APPS OUT FIRST 0.00"
+      },
+      {
+        "end": 225,
+        "labels": [
+          "Product"
+        ],
+        "start": 211,
+        "text": "1 Caprese 7.00"
+      },
+      {
+        "end": 248,
+        "labels": [
+          "Product"
+        ],
+        "start": 226,
+        "text": "1 Salad OUT FIRST 0.00"
+      },
+      {
+        "end": 274,
+        "labels": [
+          "Product"
+        ],
+        "start": 249,
+        "text": "1 Reg Carnivore (s) 12.50"
+      },
+      {
+        "end": 291,
+        "labels": [
+          "Product"
+        ],
+        "start": 275,
+        "text": "Pepper Rings (s)"
+      },
+      {
+        "end": 318,
+        "labels": [
+          "Product"
+        ],
+        "start": 292,
+        "text": "1 Reg Margherita (s) 10.00"
+      },
+      {
+        "end": 335,
+        "labels": [
+          "Amount"
+        ],
+        "start": 319,
+        "text": "sub total: 43.00"
+      },
+      {
+        "end": 347,
+        "labels": [
+          "Amount"
+        ],
+        "start": 336,
+        "text": "Tax 1: 2.58"
+      },
+      {
+        "end": 361,
+        "labels": [
+          "Amount"
+        ],
+        "start": 348,
+        "text": "Total: $45.58"
+      },
+      {
+        "end": 385,
+        "labels": [
+          "Date"
+        ],
+        "start": 376,
+        "text": "5/12/2017"
+      },
+      {
+        "end": 396,
+        "labels": [
+          "Time"
+        ],
+        "start": 386,
+        "text": "7:48:12 PM"
+      }
+    ]
+  },
+  {
+    "text": "Deccan spice 771 Newark avenue Jersey city Local, NJ 07306 (201) 604-1772 Server: Com Station: 6 Order #: 80110 Dine In Table: 2 Guests: 6 1 Dal fry 10.99 1 Paneer Butter masala 12.99 2 rice 3.98 1 deccan special biriyani 14.99 1 rice 1.09 online offer (8.99) sub total: 35.95 Tax 1:2.98 order total: 38.93 18% tips: 8.09 total: $47.02 7/26/2019 10:56:49 PM No returns or cancellations accepted once order is placed. Exchange only for faulty items ONLY.",
+    "label": [
+      {
+        "end": 12,
+        "labels": [
+          "Company"
+        ],
+        "start": 0,
+        "text": "Deccan spice"
+      },
+      {
+        "end": 73,
+        "labels": [
+          "Address"
+        ],
+        "start": 13,
+        "text": "771 Newark avenue Jersey city Local, NJ 07306 (201) 604-1772"
+      },
+      {
+        "end": 85,
+        "labels": [
+          "Person"
+        ],
+        "start": 82,
+        "text": "Com"
+      },
+      {
+        "end": 111,
+        "labels": [
+          "Invoice"
+        ],
+        "start": 97,
+        "text": "Order #: 80110"
+      },
+      {
+        "end": 154,
+        "labels": [
+          "Product"
+        ],
+        "start": 139,
+        "text": "1 Dal fry 10.99"
+      },
+      {
+        "end": 183,
+        "labels": [
+          "Product"
+        ],
+        "start": 155,
+        "text": "1 Paneer Butter masala 12.99"
+      },
+      {
+        "end": 195,
+        "labels": [
+          "Product"
+        ],
+        "start": 184,
+        "text": "2 rice 3.98"
+      },
+      {
+        "end": 227,
+        "labels": [
+          "Product"
+        ],
+        "start": 196,
+        "text": "1 deccan special biriyani 14.99"
+      },
+      {
+        "end": 259,
+        "labels": [
+          "Product"
+        ],
+        "start": 228,
+        "text": "1 rice 1.09 online offer (8.99)"
+      },
+      {
+        "end": 276,
+        "labels": [
+          "Amount"
+        ],
+        "start": 260,
+        "text": "sub total: 35.95"
+      },
+      {
+        "end": 287,
+        "labels": [
+          "Amount"
+        ],
+        "start": 277,
+        "text": "Tax 1:2.98"
+      },
+      {
+        "end": 306,
+        "labels": [
+          "Amount"
+        ],
+        "start": 288,
+        "text": "order total: 38.93"
+      }
+    ]
+  },
+  {
+    "text": "HAWWI ETHIOPIAN RESTAU 1125 QUEEN ST ALEXANDRIA, VA 22314 7037179740 ORDER: Table 2 Dine In Cashier: Mosa 13-Jul-2018 8:53:47P Transaction 000016 Guest 1 1 23. Fish Goulash $19.95 1 30. Dullet $20.95 1 34.Vegetarian dish $21.95 subtotal $62.85 tax $6.91 total $69.76",
+    "label": [
+      {
+        "end": 22,
+        "labels": [
+          "Company"
+        ],
+        "start": 0,
+        "text": "HAWWI ETHIOPIAN RESTAU"
+      },
+      {
+        "end": 105,
+        "labels": [
+          "Person"
+        ],
+        "start": 101,
+        "text": "Mosa"
+      },
+      {
+        "end": 68,
+        "labels": [
+          "Address"
+        ],
+        "start": 23,
+        "text": "1125 QUEEN ST ALEXANDRIA, VA 22314 7037179740"
+      },
+      {
+        "end": 117,
+        "labels": [
+          "Date"
+        ],
+        "start": 106,
+        "text": "13-Jul-2018"
+      },
+      {
+        "end": 126,
+        "labels": [
+          "Time"
+        ],
+        "start": 118,
+        "text": "8:53:47P"
+      },
+      {
+        "end": 145,
+        "labels": [
+          "Invoice"
+        ],
+        "start": 127,
+        "text": "Transaction 000016"
+      },
+      {
+        "end": 179,
+        "labels": [
+          "Product"
+        ],
+        "start": 156,
+        "text": "23. Fish Goulash $19.95"
+      },
+      {
+        "end": 199,
+        "labels": [
+          "Product"
+        ],
+        "start": 182,
+        "text": "30. Dullet $20.95"
+      },
+      {
+        "end": 227,
+        "labels": [
+          "Product"
+        ],
+        "start": 202,
+        "text": "34.Vegetarian dish $21.95"
+      },
+      {
+        "end": 243,
+        "labels": [
+          "Amount"
+        ],
+        "start": 228,
+        "text": "subtotal $62.85"
+      },
+      {
+        "end": 253,
+        "labels": [
+          "Amount"
+        ],
+        "start": 244,
+        "text": "tax $6.91"
+      },
+      {
+        "end": 266,
+        "labels": [
+          "Amount"
+        ],
+        "start": 254,
+        "text": "total $69.76"
+      }
+    ]
+  },
+  {
+    "text": "Moonstar Restaurant 383 Gellert Blvd, Daly City, CA 94015 (650) 992-2888 PAID REPRINT 1 Tab: 332 1P 19:51 #2406 QTY/LB NAME U/P PRICE WEEKDAY DINNER $29.88 29.88 SUBTOTAL: 29.88 15% SERVICE CHARGE: 4.48 TAX(8.75%): 3.01 SALES TOTAL: 32.89 TOTAL: 37.37 CASH: 100.00 CHANGE: 62.63 10/29/2018 19:51 THANK YOU",
+    "label": [
+      {
+        "end": 19,
+        "labels": [
+          "Company"
+        ],
+        "start": 0,
+        "text": "Moonstar Restaurant"
+      },
+      {
+        "end": 72,
+        "labels": [
+          "Address"
+        ],
+        "start": 20,
+        "text": "383 Gellert Blvd, Daly City, CA 94015 (650) 992-2888"
+      },
+      {
+        "end": 105,
+        "labels": [
+          "Time"
+        ],
+        "start": 100,
+        "text": "19:51"
+      },
+      {
+        "end": 111,
+        "labels": [
+          "Invoice"
+        ],
+        "start": 106,
+        "text": "#2406"
+      },
+      {
+        "end": 155,
+        "labels": [
+          "Product"
+        ],
+        "start": 134,
+        "text": "WEEKDAY DINNER $29.88"
+      },
+      {
+        "end": 177,
+        "labels": [
+          "Amount"
+        ],
+        "start": 162,
+        "text": "SUBTOTAL: 29.88"
+      },
+      {
+        "end": 202,
+        "labels": [
+          "Amount"
+        ],
+        "start": 182,
+        "text": "SERVICE CHARGE: 4.48"
+      },
+      {
+        "end": 219,
+        "labels": [
+          "Amount"
+        ],
+        "start": 203,
+        "text": "TAX(8.75%): 3.01"
+      },
+      {
+        "end": 238,
+        "labels": [
+          "Amount"
+        ],
+        "start": 220,
+        "text": "SALES TOTAL: 32.89"
+      },
+      {
+        "end": 251,
+        "labels": [
+          "Amount"
+        ],
+        "start": 239,
+        "text": "TOTAL: 37.37"
+      },
+      {
+        "end": 264,
+        "labels": [
+          "Amount"
+        ],
+        "start": 252,
+        "text": "CASH: 100.00"
+      },
+      {
+        "end": 278,
+        "labels": [
+          "Amount"
+        ],
+        "start": 265,
+        "text": "CHANGE: 62.63"
+      },
+      {
+        "end": 289,
+        "labels": [
+          "Date"
+        ],
+        "start": 279,
+        "text": "10/29/2018"
+      },
+      {
+        "end": 295,
+        "labels": [
+          "Time"
+        ],
+        "start": 290,
+        "text": "19:51"
+      }
+    ]
+  },
+  {
+    "text": "Thai GUSTO Thai Gusto Restaurant 2011 Hewitt Ave Everett WA 98201 Tel. 425-252-3525 Fax. 425-252-3525 Welcome to Thai Gusto Table 4 Date: 6/16/2017 12:36PM Server: PRACH (T.1) Chang (2@$3.50) $7.00 #L14 Garlic Delight $10.24 [Chicken][5][Small brown Rice] #L28 Red curry $10.24 [Chicken][5][Small brown rice] Total 4 item(s) $27.48 Sales tax $2.67 Grand total $30.15 Tip guide 15% = $4.52, 18% = $5.43 20% = $6.03 Thank you very much. Come back again. GUEST CHECK This is not a receipt.",
+    "label": [
+      {
+        "end": 10,
+        "labels": [
+          "Company"
+        ],
+        "start": 0,
+        "text": "Thai GUSTO"
+      },
+      {
+        "end": 65,
+        "labels": [
+          "Address"
+        ],
+        "start": 11,
+        "text": "Thai Gusto Restaurant 2011 Hewitt Ave Everett WA 98201"
+      },
+      {
+        "end": 123,
+        "labels": [
+          "Company"
+        ],
+        "start": 113,
+        "text": "Thai Gusto"
+      },
+      {
+        "end": 147,
+        "labels": [
+          "Date"
+        ],
+        "start": 138,
+        "text": "6/16/2017"
+      },
+      {
+        "end": 155,
+        "labels": [
+          "Time"
+        ],
+        "start": 148,
+        "text": "12:36PM"
+      },
+      {
+        "end": 175,
+        "labels": [
+          "Person"
+        ],
+        "start": 164,
+        "text": "PRACH (T.1)"
+      },
+      {
+        "end": 197,
+        "labels": [
+          "Product"
+        ],
+        "start": 176,
+        "text": "Chang (2@$3.50) $7.00"
+      },
+      {
+        "end": 224,
+        "labels": [
+          "Product"
+        ],
+        "start": 198,
+        "text": "#L14 Garlic Delight $10.24"
+      },
+      {
+        "end": 255,
+        "labels": [
+          "Product"
+        ],
+        "start": 225,
+        "text": "[Chicken][5][Small brown Rice]"
+      },
+      {
+        "end": 277,
+        "labels": [
+          "Product"
+        ],
+        "start": 256,
+        "text": "#L28 Red curry $10.24"
+      },
+      {
+        "end": 308,
+        "labels": [
+          "Product"
+        ],
+        "start": 278,
+        "text": "[Chicken][5][Small brown rice]"
+      },
+      {
+        "end": 331,
+        "labels": [
+          "Amount"
+        ],
+        "start": 309,
+        "text": "Total 4 item(s) $27.48"
+      },
+      {
+        "end": 347,
+        "labels": [
+          "Amount"
+        ],
+        "start": 332,
+        "text": "Sales tax $2.67"
+      },
+      {
+        "end": 363,
+        "labels": [
+          "Amount"
+        ],
+        "start": 348,
+        "text": "Grand total $30"
+      }
+    ]
+  },
+  {
+    "text": "New Asia Buffet 14727.5 Rinaldi St. San Fernando, CA 91340 Tel: (818)898-0880 Weekend Dinner Date: ov-15-06-N Time: 5:17PM # 84 Server: 2 Tb#: D4 No. of Guest: 1 2 Weekend dinner 27.96 2 Coke 3.16 AMOUNT: 31.12 TAX(9%): 2.80 TOTAL: 33.92 Suggested tip (10%): 3.39 (15%): 5.09 (20%): 6.78 THANK YOU VERY MUCH.",
+    "label": [
+      {
+        "end": 15,
+        "labels": [
+          "Company"
+        ],
+        "start": 0,
+        "text": "New Asia Buffet"
+      },
+      {
+        "end": 58,
+        "labels": [
+          "Address"
+        ],
+        "start": 16,
+        "text": "14727.5 Rinaldi St. San Fernando, CA 91340"
+      },
+      {
+        "end": 122,
+        "labels": [
+          "Time"
+        ],
+        "start": 116,
+        "text": "5:17PM"
+      },
+      {
+        "end": 127,
+        "labels": [
+          "Invoice"
+        ],
+        "start": 123,
+        "text": "# 84"
+      },
+      {
+        "end": 184,
+        "labels": [
+          "Product"
+        ],
+        "start": 162,
+        "text": "2 Weekend dinner 27.96"
+      },
+      {
+        "end": 196,
+        "labels": [
+          "Product"
+        ],
+        "start": 185,
+        "text": "2 Coke 3.16"
+      },
+      {
+        "end": 210,
+        "labels": [
+          "Amount"
+        ],
+        "start": 196,
+        "text": " AMOUNT: 31.12"
+      },
+      {
+        "end": 224,
+        "labels": [
+          "Amount"
+        ],
+        "start": 211,
+        "text": "TAX(9%): 2.80"
+      },
+      {
+        "end": 237,
+        "labels": [
+          "Amount"
+        ],
+        "start": 225,
+        "text": "TOTAL: 33.92"
+      }
+    ]
+  },
+  {
+    "text": "McDonald's Restaurant #3100 1617 N Eastern Avenue LOS ANGELESTEL #23 254 7300 KS# 2 02/07/2013 03:08 PM Side1 Order 97 1 Dbl Qtr Cheese 5.99 Special Request ADD leaf lettuce 0.25 ADD Mac Sauce 0.40 Subtotal 6.64 Tax 0.63 Take-out Total 7.27 Cashless 7.27 Change 0.00 MER# 499206 CARD ISSUER JOHN BOW DEBIT CARD SALE TRANSACTION AMOUNT 7.27 CHIP READ AUTHORIZATION CODE - 515541 SEQ# 099988 AID: A0000000042203 McDonald's now available on UberEats",
+    "label": [
+      {
+        "end": 21,
+        "labels": [
+          "Company"
+        ],
+        "start": 0,
+        "text": "McDonald's Restaurant"
+      },
+      {
+        "end": 118,
+        "labels": [
+          "Invoice"
+        ],
+        "start": 110,
+        "text": "Order 97"
+      },
+      {
+        "end": 77,
+        "labels": [
+          "Address"
+        ],
+        "start": 22,
+        "text": "#3100 1617 N Eastern Avenue LOS ANGELESTEL #23 254 7300"
+      },
+      {
+        "end": 94,
+        "labels": [
+          "Date"
+        ],
+        "start": 84,
+        "text": "02/07/2013"
+      },
+      {
+        "end": 103,
+        "labels": [
+          "Time"
+        ],
+        "start": 95,
+        "text": "03:08 PM"
+      },
+      {
+        "end": 140,
+        "labels": [
+          "Product"
+        ],
+        "start": 121,
+        "text": "Dbl Qtr Cheese 5.99"
+      },
+      {
+        "end": 178,
+        "labels": [
+          "Product"
+        ],
+        "start": 141,
+        "text": "Special Request ADD leaf lettuce 0.25"
+      },
+      {
+        "end": 197,
+        "labels": [
+          "Product"
+        ],
+        "start": 179,
+        "text": "ADD Mac Sauce 0.40"
+      },
+      {
+        "end": 211,
+        "labels": [
+          "Amount"
+        ],
+        "start": 198,
+        "text": "Subtotal 6.64"
+      },
+      {
+        "end": 220,
+        "labels": [
+          "Amount"
+        ],
+        "start": 212,
+        "text": "Tax 0.63"
+      },
+      {
+        "end": 240,
+        "labels": [
+          "Amount"
+        ],
+        "start": 221,
+        "text": "Take-out Total 7.27"
+      },
+      {
+        "end": 254,
+        "labels": [
+          "Amount"
+        ],
+        "start": 241,
+        "text": "Cashless 7.27"
+      },
+      {
+        "end": 265,
+        "labels": [
+          "Amount"
+        ],
+        "start": 255,
+        "text": "Change 0.0"
+      },
+      {
+        "end": 299,
+        "labels": [
+          "Person"
+        ],
+        "start": 291,
+        "text": "JOHN BOW"
+      },
+      {
+        "end": 339,
+        "labels": [
+          "Amount"
+        ],
+        "start": 328,
+        "text": "AMOUNT 7.27"
+      },
+      {
+        "end": 446,
+        "labels": [
+          "Company"
+        ],
+        "start": 438,
+        "text": "UberEats"
+      }
+    ]
+  },
+  {
+    "text": "CHRIS'S HAMBURGERS 7701 ATLANTIC AVE CUDAHY CA 90201 Ph (323) 562-4125 DATE 07/22/2018 SUN TAXABLE T1 $21.49 TAXABLE T1 $0.50 TAXABLE T1 $0.50 TAXABLE T1 $0.50 TAXABLE T1 $0.50 TAXABLE T1 $7.89 TAXABLE T1 $3.09 TAXABLE T1 $5.49 TAXABLE T1 $5.49 TAXABLE T1 $0.99 TAXABLE T1 $0.99 TAX1 $4.39 TOTAL $51.82 CASH $51.82 CLERK 01 No.00154 TIME 19:24 00",
+    "label": [
+      {
+        "end": 18,
+        "labels": [
+          "Company"
+        ],
+        "start": 0,
+        "text": "CHRIS'S HAMBURGERS"
+      },
+      {
+        "end": 70,
+        "labels": [
+          "Address"
+        ],
+        "start": 19,
+        "text": "7701 ATLANTIC AVE CUDAHY CA 90201 Ph (323) 562-4125"
+      },
+      {
+        "end": 86,
+        "labels": [
+          "Date"
+        ],
+        "start": 76,
+        "text": "07/22/2018"
+      },
+      {
+        "end": 108,
+        "labels": [
+          "Product"
+        ],
+        "start": 91,
+        "text": "TAXABLE T1 $21.49"
+      },
+      {
+        "end": 125,
+        "labels": [
+          "Product"
+        ],
+        "start": 109,
+        "text": "TAXABLE T1 $0.50"
+      },
+      {
+        "end": 142,
+        "labels": [
+          "Product"
+        ],
+        "start": 126,
+        "text": "TAXABLE T1 $0.50"
+      },
+      {
+        "end": 160,
+        "labels": [
+          "Product"
+        ],
+        "start": 143,
+        "text": "TAXABLE T1 $0.50 "
+      },
+      {
+        "end": 176,
+        "labels": [
+          "Product"
+        ],
+        "start": 160,
+        "text": "TAXABLE T1 $0.50"
+      },
+      {
+        "end": 193,
+        "labels": [
+          "Product"
+        ],
+        "start": 177,
+        "text": "TAXABLE T1 $7.89"
+      },
+      {
+        "end": 210,
+        "labels": [
+          "Product"
+        ],
+        "start": 194,
+        "text": "TAXABLE T1 $3.09"
+      },
+      {
+        "end": 227,
+        "labels": [
+          "Product"
+        ],
+        "start": 211,
+        "text": "TAXABLE T1 $5.49"
+      },
+      {
+        "end": 244,
+        "labels": [
+          "Product"
+        ],
+        "start": 228,
+        "text": "TAXABLE T1 $5.49"
+      },
+      {
+        "end": 261,
+        "labels": [
+          "Product"
+        ],
+        "start": 245,
+        "text": "TAXABLE T1 $0.99"
+      },
+      {
+        "end": 278,
+        "labels": [
+          "Product"
+        ],
+        "start": 262,
+        "text": "TAXABLE T1 $0.99"
+      },
+      {
+        "end": 289,
+        "labels": [
+          "Product"
+        ],
+        "start": 279,
+        "text": "TAX1 $4.39"
+      },
+      {
+        "end": 302,
+        "labels": [
+          "Amount"
+        ],
+        "start": 290,
+        "text": "TOTAL $51.82"
+      },
+      {
+        "end": 314,
+        "labels": [
+          "Amount"
+        ],
+        "start": 303,
+        "text": "CASH $51.82"
+      },
+      {
+        "end": 332,
+        "labels": [
+          "Invoice"
+        ],
+        "start": 327,
+        "text": "00154"
+      },
+      {
+        "end": 346,
+        "labels": [
+          "Time"
+        ],
+        "start": 338,
+        "text": "19:24 00"
+      }
+    ]
+  },
+  {
+    "text": "Green Field 5305 E Pacific Coast HWY Long Beach, CA 90804, (562) 597-0906 Server: Francis Station: 3 Order #: 69923 Dine In Table: B11 Guests: 2 1 Coffee 3.00 2 Lunch 45.90 1 Coke 3.00 Sub Total: 51.90 Tax 1: 4.68 Total $56.58 5/26/2016 12:53:10 PM Tank You!",
+    "label": [
+      {
+        "end": 11,
+        "labels": [
+          "Company"
+        ],
+        "start": 0,
+        "text": "Green Field"
+      },
+      {
+        "end": 73,
+        "labels": [
+          "Address"
+        ],
+        "start": 12,
+        "text": "5305 E Pacific Coast HWY Long Beach, CA 90804, (562) 597-0906"
+      },
+      {
+        "end": 89,
+        "labels": [
+          "Person"
+        ],
+        "start": 82,
+        "text": "Francis"
+      },
+      {
+        "end": 115,
+        "labels": [
+          "Invoice"
+        ],
+        "start": 101,
+        "text": "Order #: 69923"
+      },
+      {
+        "end": 158,
+        "labels": [
+          "Product"
+        ],
+        "start": 145,
+        "text": "1 Coffee 3.00"
+      },
+      {
+        "end": 172,
+        "labels": [
+          "Product"
+        ],
+        "start": 159,
+        "text": "2 Lunch 45.90"
+      },
+      {
+        "end": 184,
+        "labels": [
+          "Product"
+        ],
+        "start": 173,
+        "text": "1 Coke 3.00"
+      },
+      {
+        "end": 201,
+        "labels": [
+          "Amount"
+        ],
+        "start": 185,
+        "text": "Sub Total: 51.90"
+      },
+      {
+        "end": 213,
+        "labels": [
+          "Amount"
+        ],
+        "start": 202,
+        "text": "Tax 1: 4.68"
+      },
+      {
+        "end": 226,
+        "labels": [
+          "Amount"
+        ],
+        "start": 214,
+        "text": "Total $56.58"
+      },
+      {
+        "end": 236,
+        "labels": [
+          "Date"
+        ],
+        "start": 227,
+        "text": "5/26/2016"
+      },
+      {
+        "end": 248,
+        "labels": [
+          "Time"
+        ],
+        "start": 237,
+        "text": "12:53:10 PM"
+      }
+    ]
+  },
+  {
+    "text": "OAHU, HAWAII Longborads 92-161 Waipahe Place Kapolei, JI 96707 (808) 679-4700 Server: Elijah J 01/11/2019 Check: 24016 12:46PM Table: 44/0 Dine In Item Price Green Salad 8.00 Ranch Wagyu Cheeseburger 19.00 Medium well Garlic fries 2.00 ADD RAW ONIONS & BACON PLZ Drink of the Day 9.75 Tea 4.00 Subtotal $42.75 Ohana discount Breakfast -3.30 HI HNLKO 4.712% GET 1.86 Total $41.31",
+    "label": [
+      {
+        "end": 23,
+        "labels": [
+          "Company"
+        ],
+        "start": 0,
+        "text": "OAHU, HAWAII Longborads"
+      },
+      {
+        "end": 77,
+        "labels": [
+          "Address"
+        ],
+        "start": 24,
+        "text": "92-161 Waipahe Place Kapolei, JI 96707 (808) 679-4700"
+      },
+      {
+        "end": 92,
+        "labels": [
+          "Person"
+        ],
+        "start": 86,
+        "text": "Elijah"
+      },
+      {
+        "end": 105,
+        "labels": [
+          "Date"
+        ],
+        "start": 95,
+        "text": "01/11/2019"
+      },
+      {
+        "end": 118,
+        "labels": [
+          "Invoice"
+        ],
+        "start": 113,
+        "text": "24016"
+      },
+      {
+        "end": 126,
+        "labels": [
+          "Time"
+        ],
+        "start": 119,
+        "text": "12:46PM"
+      },
+      {
+        "end": 174,
+        "labels": [
+          "Product"
+        ],
+        "start": 158,
+        "text": "Green Salad 8.00"
+      },
+      {
+        "end": 205,
+        "labels": [
+          "Product"
+        ],
+        "start": 175,
+        "text": "Ranch Wagyu Cheeseburger 19.00"
+      },
+      {
+        "end": 235,
+        "labels": [
+          "Product"
+        ],
+        "start": 206,
+        "text": "Medium well Garlic fries 2.00"
+      },
+      {
+        "end": 258,
+        "labels": [
+          "Product"
+        ],
+        "start": 236,
+        "text": "ADD RAW ONIONS & BACON"
+      },
+      {
+        "end": 284,
+        "labels": [
+          "Product"
+        ],
+        "start": 263,
+        "text": "Drink of the Day 9.75"
+      },
+      {
+        "end": 293,
+        "labels": [
+          "Product"
+        ],
+        "start": 285,
+        "text": "Tea 4.00"
+      },
+      {
+        "end": 309,
+        "labels": [
+          "Amount"
+        ],
+        "start": 294,
+        "text": "Subtotal $42.75"
+      },
+      {
+        "end": 378,
+        "labels": [
+          "Amount"
+        ],
+        "start": 366,
+        "text": "Total $41.31"
+      }
+    ]
+  },
+  {
+    "text": "DOUGLAS BURGERS #15 11325 Washington Blvd WHitter, Calif 90605 (562) 699-7484 Check 20018 SAT 2/09/19 5:30PM 1 BURGER COMBO 9.99 * fries * *american ch * 0.70 1 **add bacon** 1.99 *grill onions* 1 SUB ZUCCHINI 2.49 Raspberry Ice Tea 1 Burger (1/4) 5.99 *sesame bun * **Regular** 1 **add bacon** 1.99 1 **add avocado** 1.99 1 MAKE SPECIAL 3.00 * onions rings * 2.49 * lemonade * SERV.CHARGE(2%) 0.61 SUb/Ttl 31.24 Tax 2.97 *DRV THRU 34.21 Cash 34.21",
+    "label": [
+      {
+        "end": 15,
+        "labels": [
+          "Company"
+        ],
+        "start": 0,
+        "text": "DOUGLAS BURGERS"
+      },
+      {
+        "end": 77,
+        "labels": [
+          "Address"
+        ],
+        "start": 16,
+        "text": "#15 11325 Washington Blvd WHitter, Calif 90605 (562) 699-7484"
+      },
+      {
+        "end": 101,
+        "labels": [
+          "Date"
+        ],
+        "start": 94,
+        "text": "2/09/19"
+      },
+      {
+        "end": 108,
+        "labels": [
+          "Time"
+        ],
+        "start": 102,
+        "text": "5:30PM"
+      },
+      {
+        "end": 128,
+        "labels": [
+          "Product"
+        ],
+        "start": 109,
+        "text": "1 BURGER COMBO 9.99"
+      },
+      {
+        "end": 158,
+        "labels": [
+          "Product"
+        ],
+        "start": 129,
+        "text": "* fries * *american ch * 0.70"
+      },
+      {
+        "end": 179,
+        "labels": [
+          "Product"
+        ],
+        "start": 159,
+        "text": "1 **add bacon** 1.99"
+      },
+      {
+        "end": 193,
+        "labels": [
+          "Product"
+        ],
+        "start": 181,
+        "text": "grill onions"
+      },
+      {
+        "end": 214,
+        "labels": [
+          "Product"
+        ],
+        "start": 195,
+        "text": "1 SUB ZUCCHINI 2.49"
+      },
+      {
+        "end": 232,
+        "labels": [
+          "Product"
+        ],
+        "start": 215,
+        "text": "Raspberry Ice Tea"
+      },
+      {
+        "end": 252,
+        "labels": [
+          "Product"
+        ],
+        "start": 233,
+        "text": "1 Burger (1/4) 5.99"
+      },
+      {
+        "end": 264,
+        "labels": [
+          "Product"
+        ],
+        "start": 254,
+        "text": "sesame bun"
+      },
+      {
+        "end": 299,
+        "labels": [
+          "Product"
+        ],
+        "start": 283,
+        "text": "add bacon** 1.99"
+      },
+      {
+        "end": 322,
+        "labels": [
+          "Product"
+        ],
+        "start": 304,
+        "text": "add avocado** 1.99"
+      },
+      {
+        "end": 343,
+        "labels": [
+          "Product"
+        ],
+        "start": 323,
+        "text": "1 MAKE SPECIAL 3.00 "
+      },
+      {
+        "end": 364,
+        "labels": [
+          "Product"
+        ],
+        "start": 345,
+        "text": "onions rings * 2.49"
+      },
+      {
+        "end": 375,
+        "labels": [
+          "Product"
+        ],
+        "start": 367,
+        "text": "lemonade"
+      },
+      {
+        "end": 398,
+        "labels": [
+          "Amount"
+        ],
+        "start": 383,
+        "text": "CHARGE(2%) 0.61"
+      },
+      {
+        "end": 412,
+        "labels": [
+          "Amount"
+        ],
+        "start": 399,
+        "text": "SUb/Ttl 31.24"
+      },
+      {
+        "end": 421,
+        "labels": [
+          "Amount"
+        ],
+        "start": 413,
+        "text": "Tax 2.97"
+      },
+      {
+        "end": 448,
+        "labels": [
+          "Amount"
+        ],
+        "start": 438,
+        "text": "Cash 34.21"
+      }
+    ]
+  },
+  {
+    "text": "RINCON MEXICANO 99 BROADWAY SOMERVILLE, MA 02145 6179661387 ORDER: 45 Dine In Cashier: LORENDZO REYES 09-May-2017 7:19:46P 2 Arroz $3.00 2 Taco De Pescado $7.00 2 Taco Tuesday Pollo $2.00 1 Taco D Carne Asada $2.99 1 Taco D Chorizo $2.99 1 Taco Tuesday Pastor $1.00 1 Horchata $2.99 1 Taco Tuesday Pollo $1.00 1 Tacco D Cochinita $2.99 1 Taco D Carnitas $2.99 subtotal $28.95 tax $2.03 total $30.98 Order 7JTOG7ZX6ANR8",
+    "label": [
+      {
+        "end": 15,
+        "labels": [
+          "Company"
+        ],
+        "start": 0,
+        "text": "RINCON MEXICANO"
+      },
+      {
+        "end": 48,
+        "labels": [
+          "Address"
+        ],
+        "start": 16,
+        "text": "99 BROADWAY SOMERVILLE, MA 02145"
+      },
+      {
+        "end": 69,
+        "labels": [
+          "Invoice"
+        ],
+        "start": 60,
+        "text": "ORDER: 45"
+      },
+      {
+        "end": 101,
+        "labels": [
+          "Person"
+        ],
+        "start": 87,
+        "text": "LORENDZO REYES"
+      },
+      {
+        "end": 113,
+        "labels": [
+          "Date"
+        ],
+        "start": 102,
+        "text": "09-May-2017"
+      },
+      {
+        "end": 122,
+        "labels": [
+          "Time"
+        ],
+        "start": 114,
+        "text": "7:19:46P"
+      },
+      {
+        "end": 136,
+        "labels": [
+          "Product"
+        ],
+        "start": 123,
+        "text": "2 Arroz $3.00"
+      },
+      {
+        "end": 160,
+        "labels": [
+          "Product"
+        ],
+        "start": 137,
+        "text": "2 Taco De Pescado $7.00"
+      },
+      {
+        "end": 187,
+        "labels": [
+          "Product"
+        ],
+        "start": 161,
+        "text": "2 Taco Tuesday Pollo $2.00"
+      },
+      {
+        "end": 214,
+        "labels": [
+          "Product"
+        ],
+        "start": 188,
+        "text": "1 Taco D Carne Asada $2.99"
+      },
+      {
+        "end": 237,
+        "labels": [
+          "Product"
+        ],
+        "start": 215,
+        "text": "1 Taco D Chorizo $2.99"
+      },
+      {
+        "end": 265,
+        "labels": [
+          "Product"
+        ],
+        "start": 238,
+        "text": "1 Taco Tuesday Pastor $1.00"
+      },
+      {
+        "end": 282,
+        "labels": [
+          "Product"
+        ],
+        "start": 266,
+        "text": "1 Horchata $2.99"
+      },
+      {
+        "end": 309,
+        "labels": [
+          "Product"
+        ],
+        "start": 283,
+        "text": "1 Taco Tuesday Pollo $1.00"
+      },
+      {
+        "end": 335,
+        "labels": [
+          "Product"
+        ],
+        "start": 310,
+        "text": "1 Tacco D Cochinita $2.99"
+      },
+      {
+        "end": 359,
+        "labels": [
+          "Product"
+        ],
+        "start": 336,
+        "text": "1 Taco D Carnitas $2.99"
+      },
+      {
+        "end": 375,
+        "labels": [
+          "Amount"
+        ],
+        "start": 360,
+        "text": "subtotal $28.95"
+      },
+      {
+        "end": 385,
+        "labels": [
+          "Amount"
+        ],
+        "start": 376,
+        "text": "tax $2.03"
+      },
+      {
+        "end": 398,
+        "labels": [
+          "Amount"
+        ],
+        "start": 386,
+        "text": "total $30.98"
+      }
+    ]
+  },
+  {
+    "text": "VILLA D'ESTE RESTAURANT 186 Jaricho Tpke floral park, NY 11001 (516) 354-1355 Server: Jerry Station: 6 Dine In Table: 3 Guests: 2 1 Coffee 3.50 1 glass house wine 9.95 1 Jumbo coctail Shrimp 12.95 1 Escargot Bourguigonne 10.95 1 Veal Zingaria 23.95 1 Duckling ala ARancio 25.95 sub total: 87.25 tax 1: 7.53 total: $94.78 ticket #:7 12/8/2017 4:44:05PM Thank you for dining at Ville D'Este Please come again soon.",
+    "label": [
+      {
+        "end": 23,
+        "labels": [
+          "Company"
+        ],
+        "start": 0,
+        "text": "VILLA D'ESTE RESTAURANT"
+      },
+      {
+        "end": 77,
+        "labels": [
+          "Address"
+        ],
+        "start": 24,
+        "text": "186 Jaricho Tpke floral park, NY 11001 (516) 354-1355"
+      },
+      {
+        "end": 91,
+        "labels": [
+          "Person"
+        ],
+        "start": 86,
+        "text": "Jerry"
+      },
+      {
+        "end": 331,
+        "labels": [
+          "Invoice"
+        ],
+        "start": 321,
+        "text": "ticket #:7"
+      },
+      {
+        "end": 341,
+        "labels": [
+          "Date"
+        ],
+        "start": 332,
+        "text": "12/8/2017"
+      },
+      {
+        "end": 351,
+        "labels": [
+          "Time"
+        ],
+        "start": 342,
+        "text": "4:44:05PM"
+      },
+      {
+        "end": 388,
+        "labels": [
+          "Company"
+        ],
+        "start": 376,
+        "text": "Ville D'Este"
+      },
+      {
+        "end": 143,
+        "labels": [
+          "Product"
+        ],
+        "start": 130,
+        "text": "1 Coffee 3.50"
+      },
+      {
+        "end": 167,
+        "labels": [
+          "Product"
+        ],
+        "start": 144,
+        "text": "1 glass house wine 9.95"
+      },
+      {
+        "end": 196,
+        "labels": [
+          "Product"
+        ],
+        "start": 168,
+        "text": "1 Jumbo coctail Shrimp 12.95"
+      },
+      {
+        "end": 226,
+        "labels": [
+          "Product"
+        ],
+        "start": 197,
+        "text": "1 Escargot Bourguigonne 10.95"
+      },
+      {
+        "end": 248,
+        "labels": [
+          "Product"
+        ],
+        "start": 227,
+        "text": "1 Veal Zingaria 23.95"
+      },
+      {
+        "end": 277,
+        "labels": [
+          "Product"
+        ],
+        "start": 249,
+        "text": "1 Duckling ala ARancio 25.95"
+      },
+      {
+        "end": 294,
+        "labels": [
+          "Amount"
+        ],
+        "start": 277,
+        "text": " sub total: 87.25"
+      },
+      {
+        "end": 306,
+        "labels": [
+          "Amount"
+        ],
+        "start": 295,
+        "text": "tax 1: 7.53"
+      },
+      {
+        "end": 321,
+        "labels": [
+          "Amount"
+        ],
+        "start": 307,
+        "text": "total: $94.78 "
+      }
+    ]
+  },
+  {
+    "text": "Laurel Tavern Hermosa Beach 1220 Hermosa Beach Hermosa Beach, CA 90254 Tel. 01/12/19 1:23PM Waiter 80 Sophie Table 501 Cust 1 Order 1388 1 BTL BEER 5.00 1 BRUSSELS SPROUTS 8.00 1 CANTONESE TENDERS 11.00 1 GRILLED CHEESE 12.00 1 $ ADD GARLIC FRIES 4.50 Taxable: 40.50 Sub-total: 40.50 Taxes:3.85 Total Due: 44.35 Thank you!!! ALWAYS DRIVE SAFELY Please visit our website: www.laureltavern.com INSTAGRAM: @laureltavern",
+    "label": [
+      {
+        "end": 27,
+        "labels": [
+          "Company"
+        ],
+        "start": 0,
+        "text": "Laurel Tavern Hermosa Beach"
+      },
+      {
+        "end": 70,
+        "labels": [
+          "Address"
+        ],
+        "start": 28,
+        "text": "1220 Hermosa Beach Hermosa Beach, CA 90254"
+      },
+      {
+        "end": 84,
+        "labels": [
+          "Date"
+        ],
+        "start": 76,
+        "text": "01/12/19"
+      },
+      {
+        "end": 91,
+        "labels": [
+          "Time"
+        ],
+        "start": 85,
+        "text": "1:23PM"
+      },
+      {
+        "end": 108,
+        "labels": [
+          "Person"
+        ],
+        "start": 102,
+        "text": "Sophie"
+      },
+      {
+        "end": 136,
+        "labels": [
+          "Invoice"
+        ],
+        "start": 126,
+        "text": "Order 1388"
+      },
+      {
+        "end": 152,
+        "labels": [
+          "Product"
+        ],
+        "start": 137,
+        "text": "1 BTL BEER 5.00"
+      },
+      {
+        "end": 176,
+        "labels": [
+          "Product"
+        ],
+        "start": 153,
+        "text": "1 BRUSSELS SPROUTS 8.00"
+      },
+      {
+        "end": 202,
+        "labels": [
+          "Product"
+        ],
+        "start": 177,
+        "text": "1 CANTONESE TENDERS 11.00"
+      },
+      {
+        "end": 225,
+        "labels": [
+          "Product"
+        ],
+        "start": 203,
+        "text": "1 GRILLED CHEESE 12.00"
+      },
+      {
+        "end": 251,
+        "labels": [
+          "Product"
+        ],
+        "start": 226,
+        "text": "1 $ ADD GARLIC FRIES 4.50"
+      },
+      {
+        "end": 266,
+        "labels": [
+          "Amount"
+        ],
+        "start": 252,
+        "text": "Taxable: 40.50"
+      },
+      {
+        "end": 283,
+        "labels": [
+          "Amount"
+        ],
+        "start": 267,
+        "text": "Sub-total: 40.50"
+      },
+      {
+        "end": 294,
+        "labels": [
+          "Amount"
+        ],
+        "start": 284,
+        "text": "Taxes:3.85"
+      },
+      {
+        "end": 311,
+        "labels": [
+          "Amount"
+        ],
+        "start": 295,
+        "text": "Total Due: 44.35"
+      },
+      {
+        "end": 391,
+        "labels": [
+          "Email"
+        ],
+        "start": 371,
+        "text": "www.laureltavern.com"
+      }
+    ]
+  },
+  {
+    "text": "Wings and things 1717 DUTCH BRDY ELMONT, NY 11003 THANKS CALL AGAIN 516-341-7075 #168 OUT 1 MAC&CHZ - SMALL 1.19 1 COLL GRN - SMALL 1.19 1 1 CORN BREAD 0.62 1 5 WINGS 5.75 SPCY FRY TXTL 0.75 TOTL 9.50 CASH 9.50 CHNG 0.00 THANK YOU COME AGAIN PM #1 0168 20:14 #04 MAR.19'17 REG0001",
+    "label": [
+      {
+        "end": 16,
+        "labels": [
+          "Company"
+        ],
+        "start": 0,
+        "text": "Wings and things"
+      },
+      {
+        "end": 49,
+        "labels": [
+          "Address"
+        ],
+        "start": 17,
+        "text": "1717 DUTCH BRDY ELMONT, NY 11003"
+      },
+      {
+        "end": 85,
+        "labels": [
+          "Invoice"
+        ],
+        "start": 81,
+        "text": "#168"
+      },
+      {
+        "end": 112,
+        "labels": [
+          "Product"
+        ],
+        "start": 86,
+        "text": "OUT 1 MAC&CHZ - SMALL 1.19"
+      },
+      {
+        "end": 136,
+        "labels": [
+          "Product"
+        ],
+        "start": 113,
+        "text": "1 COLL GRN - SMALL 1.19"
+      },
+      {
+        "end": 156,
+        "labels": [
+          "Product"
+        ],
+        "start": 139,
+        "text": "1 CORN BREAD 0.62"
+      },
+      {
+        "end": 171,
+        "labels": [
+          "Product"
+        ],
+        "start": 159,
+        "text": "5 WINGS 5.75"
+      },
+      {
+        "end": 190,
+        "labels": [
+          "Product"
+        ],
+        "start": 172,
+        "text": "SPCY FRY TXTL 0.75"
+      },
+      {
+        "end": 200,
+        "labels": [
+          "Amount"
+        ],
+        "start": 191,
+        "text": "TOTL 9.50"
+      },
+      {
+        "end": 210,
+        "labels": [
+          "Amount"
+        ],
+        "start": 201,
+        "text": "CASH 9.50"
+      },
+      {
+        "end": 220,
+        "labels": [
+          "Amount"
+        ],
+        "start": 211,
+        "text": "CHNG 0.00"
+      },
+      {
+        "end": 258,
+        "labels": [
+          "Time"
+        ],
+        "start": 253,
+        "text": "20:14"
+      },
+      {
+        "end": 269,
+        "labels": [
+          "Date"
+        ],
+        "start": 260,
+        "text": "04 MAR.19"
+      }
+    ]
+  },
+  {
+    "text": "8030 Renaissance Prkway Durham, NC 27713 (984) 329-2900 Sevrer: ANASTASHIA 05/18/2019 Table 57/1 12:25PM Guests: 2 80001 Taco Salad 15.49 Ground beef Add Chicken Fajita 8.99 Pechuga de Pollo 18.99 SUbtotal 43.47 tax 3.26 total 46.73 Balance due 46.73 Ask your server about the uncle Julio's Loyalty program Free to join and tons of rewards to earn!",
+    "label": [
+      {
+        "end": 23,
+        "labels": [
+          "Company"
+        ],
+        "start": 5,
+        "text": "Renaissance Prkway"
+      },
+      {
+        "end": 74,
+        "labels": [
+          "Person"
+        ],
+        "start": 64,
+        "text": "ANASTASHIA"
+      },
+      {
+        "end": 85,
+        "labels": [
+          "Date"
+        ],
+        "start": 75,
+        "text": "05/18/2019"
+      },
+      {
+        "end": 104,
+        "labels": [
+          "Time"
+        ],
+        "start": 97,
+        "text": "12:25PM"
+      },
+      {
+        "end": 120,
+        "labels": [
+          "Invoice"
+        ],
+        "start": 115,
+        "text": "80001"
+      },
+      {
+        "end": 137,
+        "labels": [
+          "Product"
+        ],
+        "start": 121,
+        "text": "Taco Salad 15.49"
+      },
+      {
+        "end": 149,
+        "labels": [
+          "Product"
+        ],
+        "start": 138,
+        "text": "Ground beef"
+      },
+      {
+        "end": 173,
+        "labels": [
+          "Product"
+        ],
+        "start": 150,
+        "text": "Add Chicken Fajita 8.99"
+      },
+      {
+        "end": 196,
+        "labels": [
+          "Product"
+        ],
+        "start": 174,
+        "text": "Pechuga de Pollo 18.99"
+      },
+      {
+        "end": 211,
+        "labels": [
+          "Amount"
+        ],
+        "start": 197,
+        "text": "SUbtotal 43.47"
+      },
+      {
+        "end": 220,
+        "labels": [
+          "Amount"
+        ],
+        "start": 212,
+        "text": "tax 3.26"
+      },
+      {
+        "end": 232,
+        "labels": [
+          "Amount"
+        ],
+        "start": 221,
+        "text": "total 46.73"
+      },
+      {
+        "end": 250,
+        "labels": [
+          "Amount"
+        ],
+        "start": 233,
+        "text": "Balance due 46.73"
+      },
+      {
+        "end": 55,
+        "labels": [
+          "Address"
+        ],
+        "start": 24,
+        "text": "Durham, NC 27713 (984) 329-2900"
+      }
+    ]
+  },
+  {
+    "text": "IaSource 25, Chralian PARIS #0007 02-08-2015 NOTE 1 PERRIER 5.80 5.80 1 COCA-COLA 5.80 5.80 1 JUSTORANGE 5.40 5.40 TOTAL EURO 17.00 H.T TVA 10% 15.45 DONT TVA 10% 1.55 TOTAL TTC 10% 17.00 Tel: 01.48.28.44.81 PRIX NET MERCI DE VOTRE VISITE",
+    "label": [
+      {
+        "end": 8,
+        "labels": [
+          "Company"
+        ],
+        "start": 0,
+        "text": "IaSource"
+      },
+      {
+        "end": 27,
+        "labels": [
+          "Address"
+        ],
+        "start": 9,
+        "text": "25, Chralian PARIS"
+      },
+      {
+        "end": 33,
+        "labels": [
+          "Invoice"
+        ],
+        "start": 28,
+        "text": "#0007"
+      },
+      {
+        "end": 44,
+        "labels": [
+          "Date"
+        ],
+        "start": 34,
+        "text": "02-08-2015"
+      },
+      {
+        "end": 64,
+        "labels": [
+          "Product"
+        ],
+        "start": 50,
+        "text": "1 PERRIER 5.80"
+      },
+      {
+        "end": 86,
+        "labels": [
+          "Product"
+        ],
+        "start": 70,
+        "text": "1 COCA-COLA 5.80"
+      },
+      {
+        "end": 109,
+        "labels": [
+          "Product"
+        ],
+        "start": 92,
+        "text": "1 JUSTORANGE 5.40"
+      },
+      {
+        "end": 131,
+        "labels": [
+          "Amount"
+        ],
+        "start": 115,
+        "text": "TOTAL EURO 17.00"
+      }
+    ]
+  },
+  {
+    "text": "Argonaut DIner2000 We deliver please pay at cashier 1084 Yonkers Avenue Yonkers, NY 10704 (914) 237-5055 Copy of receipt 1 coffee $1.45 1 tea $1.45 1 Waffle $5.50 1 old fashion french toast $4.50 1 side home fries $2.95 1 banana $2.95 1 whipped cream $2.50 1 W/2 EGGS $2.95 Subtotal: $24.25 $2.13 Total: $26.38 Server name: MIKE Table Number: 9 Number of Guests: 1 Order started: 11:01 AM Call us for free delivery to your home or office",
+    "label": [
+      {
+        "end": 14,
+        "labels": [
+          "Company"
+        ],
+        "start": 0,
+        "text": "Argonaut DIner"
+      },
+      {
+        "end": 104,
+        "labels": [
+          "Address"
+        ],
+        "start": 14,
+        "text": "2000 We deliver please pay at cashier 1084 Yonkers Avenue Yonkers, NY 10704 (914) 237-5055"
+      },
+      {
+        "end": 135,
+        "labels": [
+          "Product"
+        ],
+        "start": 121,
+        "text": "1 coffee $1.45"
+      },
+      {
+        "end": 147,
+        "labels": [
+          "Product"
+        ],
+        "start": 136,
+        "text": "1 tea $1.45"
+      },
+      {
+        "end": 162,
+        "labels": [
+          "Product"
+        ],
+        "start": 148,
+        "text": "1 Waffle $5.50"
+      },
+      {
+        "end": 195,
+        "labels": [
+          "Product"
+        ],
+        "start": 163,
+        "text": "1 old fashion french toast $4.50"
+      },
+      {
+        "end": 219,
+        "labels": [
+          "Product"
+        ],
+        "start": 196,
+        "text": "1 side home fries $2.95"
+      },
+      {
+        "end": 234,
+        "labels": [
+          "Product"
+        ],
+        "start": 220,
+        "text": "1 banana $2.95"
+      },
+      {
+        "end": 256,
+        "labels": [
+          "Product"
+        ],
+        "start": 235,
+        "text": "1 whipped cream $2.50"
+      },
+      {
+        "end": 273,
+        "labels": [
+          "Product"
+        ],
+        "start": 257,
+        "text": "1 W/2 EGGS $2.95"
+      },
+      {
+        "end": 290,
+        "labels": [
+          "Amount"
+        ],
+        "start": 274,
+        "text": "Subtotal: $24.25"
+      },
+      {
+        "end": 310,
+        "labels": [
+          "Amount"
+        ],
+        "start": 297,
+        "text": "Total: $26.38"
+      },
+      {
+        "end": 328,
+        "labels": [
+          "Person"
+        ],
+        "start": 324,
+        "text": "MIKE"
+      },
+      {
+        "end": 388,
+        "labels": [
+          "Time"
+        ],
+        "start": 380,
+        "text": "11:01 AM"
+      }
+    ]
+  },
+  {
+    "text": "PAPPADEAUX SEAFOOD KITCHEN Pappadeaux Seafood Kitchen (030) 1304 Copeland Rd, Arlington, TX 76011 (817) 543-0544 www.Pappadeaux.com 0035 Table 72 #Party 3 SARAH H SvrCk: 2 12:11 11/18/17 DINE IN 1 Lump crab & spinach dip 15.95 1 cajun combo 18.95 1 lunch shrimp & andouille 13.95 sub total:48.85 tax: 3.91 sub total: 52.76 11/18 12:45 total: 52.76 Thank you for dining at Pappadeaux. Tip not included 15% 7.91 18% 9.50 20% 10.55 e-gift card payment (19 digits) present e-gift card for validation.",
+    "label": [
+      {
+        "end": 26,
+        "labels": [
+          "Company"
+        ],
+        "start": 0,
+        "text": "PAPPADEAUX SEAFOOD KITCHEN"
+      },
+      {
+        "end": 112,
+        "labels": [
+          "Address"
+        ],
+        "start": 27,
+        "text": "Pappadeaux Seafood Kitchen (030) 1304 Copeland Rd, Arlington, TX 76011 (817) 543-0544"
+      },
+      {
+        "end": 131,
+        "labels": [
+          "Email"
+        ],
+        "start": 113,
+        "text": "www.Pappadeaux.com"
+      },
+      {
+        "end": 136,
+        "labels": [
+          "Invoice"
+        ],
+        "start": 132,
+        "text": "0035"
+      },
+      {
+        "end": 162,
+        "labels": [
+          "Person"
+        ],
+        "start": 155,
+        "text": "SARAH H"
+      },
+      {
+        "end": 177,
+        "labels": [
+          "Time"
+        ],
+        "start": 172,
+        "text": "12:11"
+      },
+      {
+        "end": 186,
+        "labels": [
+          "Date"
+        ],
+        "start": 178,
+        "text": "11/18/17"
+      },
+      {
+        "end": 226,
+        "labels": [
+          "Product"
+        ],
+        "start": 195,
+        "text": "1 Lump crab & spinach dip 15.95"
+      },
+      {
+        "end": 246,
+        "labels": [
+          "Product"
+        ],
+        "start": 227,
+        "text": "1 cajun combo 18.95"
+      },
+      {
+        "end": 279,
+        "labels": [
+          "Product"
+        ],
+        "start": 247,
+        "text": "1 lunch shrimp & andouille 13.95"
+      },
+      {
+        "end": 295,
+        "labels": [
+          "Amount"
+        ],
+        "start": 280,
+        "text": "sub total:48.85"
+      },
+      {
+        "end": 305,
+        "labels": [
+          "Amount"
+        ],
+        "start": 296,
+        "text": "tax: 3.91"
+      },
+      {
+        "end": 322,
+        "labels": [
+          "Amount"
+        ],
+        "start": 306,
+        "text": "sub total: 52.76"
+      },
+      {
+        "end": 328,
+        "labels": [
+          "Date"
+        ],
+        "start": 323,
+        "text": "11/18"
+      },
+      {
+        "end": 334,
+        "labels": [
+          "Time"
+        ],
+        "start": 329,
+        "text": "12:45"
+      },
+      {
+        "end": 347,
+        "labels": [
+          "Amount"
+        ],
+        "start": 335,
+        "text": "total: 52.76"
+      },
+      {
+        "end": 382,
+        "labels": [
+          "Company"
+        ],
+        "start": 372,
+        "text": "Pappadeaux"
+      }
+    ]
+  },
+  {
+    "text": "Grand luxcafe Roosevelt field 0480 table 101 #party 3 Stephen R SvrCk: 4 16:43 04/25/15 Coffee 2.95 Chicken parmesan 17.95 prime top sirloin 25.95 the bacon-cheese burger 13.95 coffee 2.95 sub total: 63.75 tax: 5.50 sub total: 69.25 04/25 17:42 total: 69.25 gratuity not included suggested gratuity: 20% 13.85 18% 12.47 15% 10.39 It's been a pleasure to server you. Thank you for dining with us",
+    "label": [
+      {
+        "end": 29,
+        "labels": [
+          "Company"
+        ],
+        "start": 0,
+        "text": "Grand luxcafe Roosevelt field"
+      },
+      {
+        "end": 63,
+        "labels": [
+          "Person"
+        ],
+        "start": 54,
+        "text": "Stephen R"
+      },
+      {
+        "end": 78,
+        "labels": [
+          "Time"
+        ],
+        "start": 73,
+        "text": "16:43"
+      },
+      {
+        "end": 87,
+        "labels": [
+          "Date"
+        ],
+        "start": 79,
+        "text": "04/25/15"
+      },
+      {
+        "end": 99,
+        "labels": [
+          "Product"
+        ],
+        "start": 88,
+        "text": "Coffee 2.95"
+      },
+      {
+        "end": 122,
+        "labels": [
+          "Product"
+        ],
+        "start": 100,
+        "text": "Chicken parmesan 17.95"
+      },
+      {
+        "end": 146,
+        "labels": [
+          "Product"
+        ],
+        "start": 123,
+        "text": "prime top sirloin 25.95"
+      },
+      {
+        "end": 176,
+        "labels": [
+          "Product"
+        ],
+        "start": 151,
+        "text": "bacon-cheese burger 13.95"
+      },
+      {
+        "end": 188,
+        "labels": [
+          "Product"
+        ],
+        "start": 177,
+        "text": "coffee 2.95"
+      },
+      {
+        "end": 205,
+        "labels": [
+          "Amount"
+        ],
+        "start": 189,
+        "text": "sub total: 63.75"
+      },
+      {
+        "end": 215,
+        "labels": [
+          "Amount"
+        ],
+        "start": 206,
+        "text": "tax: 5.50"
+      },
+      {
+        "end": 232,
+        "labels": [
+          "Amount"
+        ],
+        "start": 216,
+        "text": "sub total: 69.25"
+      },
+      {
+        "end": 257,
+        "labels": [
+          "Amount"
+        ],
+        "start": 245,
+        "text": "total: 69.25"
+      },
+      {
+        "end": 244,
+        "labels": [
+          "Time"
+        ],
+        "start": 239,
+        "text": "17:42"
+      },
+      {
+        "end": 238,
+        "labels": [
+          "Date"
+        ],
+        "start": 233,
+        "text": "04/25"
+      },
+      {
+        "end": 34,
+        "labels": [
+          "Invoice"
+        ],
+        "start": 30,
+        "text": "0480"
+      }
+    ]
+  },
+  {
+    "text": "Store #1291 Panda express everett, WA (425) 710-0278 3/16/2013 3:41:24PM Order: 177437 Server: Tameka J 1 PARTY PK 18-22 139.00 CHOW MEIN FRIED RICE FRIED/C MEIN ORANGE CKN GRILL TERIYAKI CKN PEPPERCORN SHRIMP 12.00 Subtotal 151.00 TAX 13.89 Toatl 164.89 Cash 200.00 Change 35.11 FREE ENTREE ITEM! WE VALUE YOUR OPINION! Call 1-888-51-PANDA (72632) or Visit pandaexpress.com/guest",
+    "label": [
+      {
+        "end": 33,
+        "labels": [
+          "Company"
+        ],
+        "start": 12,
+        "text": "Panda express everett"
+      },
+      {
+        "end": 62,
+        "labels": [
+          "Date"
+        ],
+        "start": 53,
+        "text": "3/16/2013"
+      },
+      {
+        "end": 72,
+        "labels": [
+          "Time"
+        ],
+        "start": 63,
+        "text": "3:41:24PM"
+      },
+      {
+        "end": 86,
+        "labels": [
+          "Invoice"
+        ],
+        "start": 73,
+        "text": "Order: 177437"
+      },
+      {
+        "end": 102,
+        "labels": [
+          "Person"
+        ],
+        "start": 95,
+        "text": "Tameka "
+      },
+      {
+        "end": 127,
+        "labels": [
+          "Product"
+        ],
+        "start": 106,
+        "text": "PARTY PK 18-22 139.00"
+      },
+      {
+        "end": 148,
+        "labels": [
+          "Product"
+        ],
+        "start": 128,
+        "text": "CHOW MEIN FRIED RICE"
+      },
+      {
+        "end": 168,
+        "labels": [
+          "Product"
+        ],
+        "start": 149,
+        "text": "FRIED/C MEIN ORANGE"
+      },
+      {
+        "end": 187,
+        "labels": [
+          "Product"
+        ],
+        "start": 169,
+        "text": "CKN GRILL TERIYAKI"
+      },
+      {
+        "end": 202,
+        "labels": [
+          "Product"
+        ],
+        "start": 188,
+        "text": "CKN PEPPERCORN"
+      },
+      {
+        "end": 215,
+        "labels": [
+          "Product"
+        ],
+        "start": 203,
+        "text": "SHRIMP 12.00"
+      },
+      {
+        "end": 231,
+        "labels": [
+          "Amount"
+        ],
+        "start": 216,
+        "text": "Subtotal 151.00"
+      },
+      {
+        "end": 241,
+        "labels": [
+          "Amount"
+        ],
+        "start": 232,
+        "text": "TAX 13.89"
+      },
+      {
+        "end": 254,
+        "labels": [
+          "Amount"
+        ],
+        "start": 242,
+        "text": "Toatl 164.89"
+      },
+      {
+        "end": 266,
+        "labels": [
+          "Amount"
+        ],
+        "start": 255,
+        "text": "Cash 200.00"
+      },
+      {
+        "end": 279,
+        "labels": [
+          "Amount"
+        ],
+        "start": 267,
+        "text": "Change 35.11"
+      },
+      {
+        "end": 380,
+        "labels": [
+          "Email"
+        ],
+        "start": 358,
+        "text": "pandaexpress.com/guest"
+      },
+      {
+        "end": 52,
+        "labels": [
+          "Address"
+        ],
+        "start": 35,
+        "text": "WA (425) 710-0278"
+      }
+    ]
+  },
+  {
+    "text": "Micros demo system welcome to yogurtland 12502 North Kendall drive Miami, FL 33186 (305) 279-3478 Date: Sep07'18 09:28PM Card type: VISA Acct #: XXXXXXXXXXXX3862 Card entry: SWIPED Trans type:PURCHASE Trans key: III008007193348 Auth code: 071410 Check: 1082 Server: 1041 melanie Total 17.80 **NO SIGNATURE REQUIRED FOR PURCHASES UNDER $20**",
+    "label": [
+      {
+        "end": 18,
+        "labels": [
+          "Company"
+        ],
+        "start": 0,
+        "text": "Micros demo system"
+      },
+      {
+        "end": 97,
+        "labels": [
+          "Address"
+        ],
+        "start": 41,
+        "text": "12502 North Kendall drive Miami, FL 33186 (305) 279-3478"
+      },
+      {
+        "end": 112,
+        "labels": [
+          "Date"
+        ],
+        "start": 104,
+        "text": "Sep07'18"
+      },
+      {
+        "end": 120,
+        "labels": [
+          "Time"
+        ],
+        "start": 113,
+        "text": "09:28PM"
+      },
+      {
+        "end": 270,
+        "labels": [
+          "Invoice"
+        ],
+        "start": 266,
+        "text": "1041"
+      },
+      {
+        "end": 278,
+        "labels": [
+          "Person"
+        ],
+        "start": 271,
+        "text": "melanie"
+      },
+      {
+        "end": 290,
+        "labels": [
+          "Amount"
+        ],
+        "start": 279,
+        "text": "Total 17.80"
+      }
+    ]
+  },
+  {
+    "text": "CARL'S JR 1100375 (916) 962-3415 8105 MADISON AVE FAIR OAKS, CA Register 1 order is tendered 12/19/2016 7:42:42PM DriveThru #3100/3625 2 Santa Fe Ckn $11.38 American Ch $0.70 E green chile S Santa Fe Sce Sub total $12.08 discounts $0.00 tax $0.97 total $13.05 credit $13.05 change $0.00",
+    "label": [
+      {
+        "end": 9,
+        "labels": [
+          "Company"
+        ],
+        "start": 0,
+        "text": "CARL'S JR"
+      },
+      {
+        "end": 63,
+        "labels": [
+          "Address"
+        ],
+        "start": 10,
+        "text": "1100375 (916) 962-3415 8105 MADISON AVE FAIR OAKS, CA"
+      },
+      {
+        "end": 103,
+        "labels": [
+          "Date"
+        ],
+        "start": 93,
+        "text": "12/19/2016"
+      },
+      {
+        "end": 113,
+        "labels": [
+          "Time"
+        ],
+        "start": 104,
+        "text": "7:42:42PM"
+      },
+      {
+        "end": 129,
+        "labels": [
+          "Invoice"
+        ],
+        "start": 124,
+        "text": "#3100"
+      },
+      {
+        "end": 156,
+        "labels": [
+          "Product"
+        ],
+        "start": 137,
+        "text": "Santa Fe Ckn $11.38"
+      },
+      {
+        "end": 174,
+        "labels": [
+          "Product"
+        ],
+        "start": 157,
+        "text": "American Ch $0.70"
+      },
+      {
+        "end": 188,
+        "labels": [
+          "Product"
+        ],
+        "start": 175,
+        "text": "E green chile"
+      },
+      {
+        "end": 203,
+        "labels": [
+          "Product"
+        ],
+        "start": 188,
+        "text": " S Santa Fe Sce"
+      },
+      {
+        "end": 220,
+        "labels": [
+          "Amount"
+        ],
+        "start": 204,
+        "text": "Sub total $12.08"
+      },
+      {
+        "end": 236,
+        "labels": [
+          "Amount"
+        ],
+        "start": 221,
+        "text": "discounts $0.00"
+      },
+      {
+        "end": 246,
+        "labels": [
+          "Amount"
+        ],
+        "start": 237,
+        "text": "tax $0.97"
+      },
+      {
+        "end": 259,
+        "labels": [
+          "Amount"
+        ],
+        "start": 247,
+        "text": "total $13.05"
+      },
+      {
+        "end": 273,
+        "labels": [
+          "Amount"
+        ],
+        "start": 260,
+        "text": "credit $13.05"
+      },
+      {
+        "end": 286,
+        "labels": [
+          "Amount"
+        ],
+        "start": 274,
+        "text": "change $0.00"
+      }
+    ]
+  },
+  {
+    "text": "SUKHOTHAI SUKHOTHAI SUSHI + ASIAN FUSION 11/35 SW 147 AVE UNIT 36 MIAMI, FL 33196 7865774888 http://www.sukhothaius.com order online www.sukhothaius.com ORDER: 0003 DINE-IN Cashier: Sergio 19-Apr-2019 2:02:26P Transaction 211209 1 chicken fried rice and egg $7.99 lunch 1 california tropic and miso $7.99 Lunch 1 add two tostones $1.00 1 sprite $2.50 1 perrie sparkling water $3.50 subtotal $22.98 tax $1.61 service fees on tables $3.45 Restaurant (15.0%) total $28.04 CREDIT CARD AUTH $28.04",
+    "label": [
+      {
+        "end": 25,
+        "labels": [
+          "Company"
+        ],
+        "start": 0,
+        "text": "SUKHOTHAI SUKHOTHAI SUSHI"
+      },
+      {
+        "end": 119,
+        "labels": [
+          "Email"
+        ],
+        "start": 93,
+        "text": "http://www.sukhothaius.com"
+      },
+      {
+        "end": 164,
+        "labels": [
+          "Invoice"
+        ],
+        "start": 153,
+        "text": "ORDER: 0003"
+      },
+      {
+        "end": 188,
+        "labels": [
+          "Person"
+        ],
+        "start": 173,
+        "text": "Cashier: Sergio"
+      },
+      {
+        "end": 200,
+        "labels": [
+          "Date"
+        ],
+        "start": 189,
+        "text": "19-Apr-2019"
+      },
+      {
+        "end": 209,
+        "labels": [
+          "Time"
+        ],
+        "start": 201,
+        "text": "2:02:26P"
+      },
+      {
+        "end": 263,
+        "labels": [
+          "Product"
+        ],
+        "start": 229,
+        "text": "1 chicken fried rice and egg $7.99"
+      },
+      {
+        "end": 304,
+        "labels": [
+          "Product"
+        ],
+        "start": 264,
+        "text": "lunch 1 california tropic and miso $7.99"
+      },
+      {
+        "end": 335,
+        "labels": [
+          "Product"
+        ],
+        "start": 305,
+        "text": "Lunch 1 add two tostones $1.00"
+      },
+      {
+        "end": 350,
+        "labels": [
+          "Product"
+        ],
+        "start": 336,
+        "text": "1 sprite $2.50"
+      },
+      {
+        "end": 381,
+        "labels": [
+          "Product"
+        ],
+        "start": 351,
+        "text": "1 perrie sparkling water $3.50"
+      },
+      {
+        "end": 397,
+        "labels": [
+          "Amount"
+        ],
+        "start": 382,
+        "text": "subtotal $22.98"
+      },
+      {
+        "end": 407,
+        "labels": [
+          "Amount"
+        ],
+        "start": 397,
+        "text": " tax $1.61"
+      },
+      {
+        "end": 468,
+        "labels": [
+          "Amount"
+        ],
+        "start": 456,
+        "text": "total $28.04"
+      },
+      {
+        "end": 92,
+        "labels": [
+          "Address"
+        ],
+        "start": 41,
+        "text": "11/35 SW 147 AVE UNIT 36 MIAMI, FL 33196 7865774888"
+      }
+    ]
+  },
+  {
+    "text": "For a chance to win see back of receipt survey code: 0279-4033-2211-1303 (diganos en espanol) taco bell 017314 7230 Pendleton pike lawrence IN 46226 (317)541-1897 9/1/2016 8:35:38 PM Order 378752 cashier: DAJA G 1 power veg bowl 4.99 no sour cream 0.00 no cheese 0.00 1 rg orange crsh fz 1.99 subtotal 6.98 tax 0.63 total 7.61 visa 7.61 acct: XXXXXXXX2276 approval: 571883 drive thru thank you for visiting! mobile ordering is here download the app",
+    "label": [
+      {
+        "end": 92,
+        "labels": [
+          "Company"
+        ],
+        "start": 74,
+        "text": "diganos en espanol"
+      },
+      {
+        "end": 162,
+        "labels": [
+          "Address"
+        ],
+        "start": 111,
+        "text": "7230 Pendleton pike lawrence IN 46226 (317)541-1897"
+      },
+      {
+        "end": 171,
+        "labels": [
+          "Date"
+        ],
+        "start": 163,
+        "text": "9/1/2016"
+      },
+      {
+        "end": 182,
+        "labels": [
+          "Time"
+        ],
+        "start": 172,
+        "text": "8:35:38 PM"
+      },
+      {
+        "end": 195,
+        "labels": [
+          "Invoice"
+        ],
+        "start": 183,
+        "text": "Order 378752"
+      },
+      {
+        "end": 211,
+        "labels": [
+          "Person"
+        ],
+        "start": 205,
+        "text": "DAJA G"
+      },
+      {
+        "end": 233,
+        "labels": [
+          "Product"
+        ],
+        "start": 212,
+        "text": "1 power veg bowl 4.99"
+      },
+      {
+        "end": 252,
+        "labels": [
+          "Product"
+        ],
+        "start": 234,
+        "text": "no sour cream 0.00"
+      },
+      {
+        "end": 267,
+        "labels": [
+          "Product"
+        ],
+        "start": 253,
+        "text": "no cheese 0.00"
+      },
+      {
+        "end": 292,
+        "labels": [
+          "Product"
+        ],
+        "start": 268,
+        "text": "1 rg orange crsh fz 1.99"
+      },
+      {
+        "end": 306,
+        "labels": [
+          "Amount"
+        ],
+        "start": 293,
+        "text": "subtotal 6.98"
+      },
+      {
+        "end": 315,
+        "labels": [
+          "Amount"
+        ],
+        "start": 307,
+        "text": "tax 0.63"
+      },
+      {
+        "end": 326,
+        "labels": [
+          "Amount"
+        ],
+        "start": 316,
+        "text": "total 7.61"
+      }
+    ]
+  },
+  {
+    "text": "El gran mar de plata 10325 hammocks blvd miami FL 33175 server: kayra station: 10 order #: 8262 dine in bar tab: bar tab settled 1 miller lite 5.00 sub total: 5.00 sales tax: 0.35 total: $5.35 cash tendered 5.35 balance $0.00 ticket #:35 created 4/20/2017 10:13:17 PM settled 4/20/2017 10:13:25 PM Thank you",
+    "label": [
+      {
+        "end": 20,
+        "labels": [
+          "Company"
+        ],
+        "start": 0,
+        "text": "El gran mar de plata"
+      },
+      {
+        "end": 55,
+        "labels": [
+          "Address"
+        ],
+        "start": 21,
+        "text": "10325 hammocks blvd miami FL 33175"
+      },
+      {
+        "end": 69,
+        "labels": [
+          "Person"
+        ],
+        "start": 64,
+        "text": "kayra"
+      },
+      {
+        "end": 95,
+        "labels": [
+          "Invoice"
+        ],
+        "start": 82,
+        "text": "order #: 8262"
+      },
+      {
+        "end": 147,
+        "labels": [
+          "Product"
+        ],
+        "start": 129,
+        "text": "1 miller lite 5.00"
+      },
+      {
+        "end": 163,
+        "labels": [
+          "Amount"
+        ],
+        "start": 148,
+        "text": "sub total: 5.00"
+      },
+      {
+        "end": 179,
+        "labels": [
+          "Amount"
+        ],
+        "start": 164,
+        "text": "sales tax: 0.35"
+      },
+      {
+        "end": 192,
+        "labels": [
+          "Amount"
+        ],
+        "start": 180,
+        "text": "total: $5.35"
+      },
+      {
+        "end": 211,
+        "labels": [
+          "Amount"
+        ],
+        "start": 193,
+        "text": "cash tendered 5.35"
+      },
+      {
+        "end": 225,
+        "labels": [
+          "Amount"
+        ],
+        "start": 211,
+        "text": " balance $0.00"
+      },
+      {
+        "end": 255,
+        "labels": [
+          "Date"
+        ],
+        "start": 246,
+        "text": "4/20/2017"
+      },
+      {
+        "end": 267,
+        "labels": [
+          "Time"
+        ],
+        "start": 256,
+        "text": "10:13:17 PM"
+      },
+      {
+        "end": 285,
+        "labels": [
+          "Date"
+        ],
+        "start": 276,
+        "text": "4/20/2017"
+      },
+      {
+        "end": 297,
+        "labels": [
+          "Time"
+        ],
+        "start": 286,
+        "text": "10:13:25 PM"
+      }
+    ]
+  },
+  {
+    "text": "golden bowl teriyaki 8610 garfield ave. south gate, CA. 90280 TEL: (562) 928-8999 REG 05-18-2019 11:19 AM Manager1 MC #01 000141 ORDER# 000141 1 #1 CHKN PLATE $9.39 1+AVOCADO $1.95 1 MD. DRINK $2.29 *HERE TAX TOTAL $15.03 CASH $20.00 CG $4.97",
+    "label": [
+      {
+        "end": 20,
+        "labels": [
+          "Company"
+        ],
+        "start": 0,
+        "text": "golden bowl teriyaki"
+      },
+      {
+        "end": 81,
+        "labels": [
+          "Address"
+        ],
+        "start": 21,
+        "text": "8610 garfield ave. south gate, CA. 90280 TEL: (562) 928-8999"
+      },
+      {
+        "end": 96,
+        "labels": [
+          "Date"
+        ],
+        "start": 86,
+        "text": "05-18-2019"
+      },
+      {
+        "end": 105,
+        "labels": [
+          "Time"
+        ],
+        "start": 97,
+        "text": "11:19 AM"
+      },
+      {
+        "end": 142,
+        "labels": [
+          "Invoice"
+        ],
+        "start": 129,
+        "text": "ORDER# 000141"
+      },
+      {
+        "end": 164,
+        "labels": [
+          "Product"
+        ],
+        "start": 146,
+        "text": "1 CHKN PLATE $9.39"
+      },
+      {
+        "end": 180,
+        "labels": [
+          "Product"
+        ],
+        "start": 167,
+        "text": "AVOCADO $1.95"
+      },
+      {
+        "end": 198,
+        "labels": [
+          "Product"
+        ],
+        "start": 181,
+        "text": "1 MD. DRINK $2.29"
+      },
+      {
+        "end": 221,
+        "labels": [
+          "Amount"
+        ],
+        "start": 209,
+        "text": "TOTAL $15.03"
+      },
+      {
+        "end": 233,
+        "labels": [
+          "Amount"
+        ],
+        "start": 222,
+        "text": "CASH $20.00"
+      },
+      {
+        "end": 242,
+        "labels": [
+          "Amount"
+        ],
+        "start": 234,
+        "text": "CG $4.97"
+      }
+    ]
+  },
+  {
+    "text": "SASKA'S 3768 Mission Blvd San Diego CA 92109 (858) 488-7311 Server: Sue 08/15/2017 Table 103/1 5:51 PM Guests: 2 10005 reprint #:2 draft blackhouse 7.00 cowboy 16oz ribeye 45.00 make it blue 5.00 add lobster 21.00 CK Manhattan (2 @5.00) 10.00 WHistle pig rye 10yr (2 @20.00) 40.00 (2) BMOD Up Duke 16oz top sirloin 34.00 make it blue 5.00 subtotal 167.00 tax 12.94 total 179.94 balance due 179.94 suggested tip before discounts 18% = $30.06 20% = $33.40 22% = $36.74",
+    "label": [
+      {
+        "end": 7,
+        "labels": [
+          "Company"
+        ],
+        "start": 0,
+        "text": "SASKA'S"
+      },
+      {
+        "end": 59,
+        "labels": [
+          "Address"
+        ],
+        "start": 8,
+        "text": "3768 Mission Blvd San Diego CA 92109 (858) 488-7311"
+      },
+      {
+        "end": 71,
+        "labels": [
+          "Person"
+        ],
+        "start": 68,
+        "text": "Sue"
+      },
+      {
+        "end": 82,
+        "labels": [
+          "Date"
+        ],
+        "start": 72,
+        "text": "08/15/2017"
+      },
+      {
+        "end": 102,
+        "labels": [
+          "Time"
+        ],
+        "start": 95,
+        "text": "5:51 PM"
+      },
+      {
+        "end": 118,
+        "labels": [
+          "Invoice"
+        ],
+        "start": 113,
+        "text": "10005"
+      },
+      {
+        "end": 152,
+        "labels": [
+          "Product"
+        ],
+        "start": 137,
+        "text": "blackhouse 7.00"
+      },
+      {
+        "end": 162,
+        "labels": [
+          "Product"
+        ],
+        "start": 153,
+        "text": "cowboy 16"
+      },
+      {
+        "end": 177,
+        "labels": [
+          "Product"
+        ],
+        "start": 162,
+        "text": "oz ribeye 45.00"
+      },
+      {
+        "end": 195,
+        "labels": [
+          "Product"
+        ],
+        "start": 178,
+        "text": "make it blue 5.00"
+      },
+      {
+        "end": 213,
+        "labels": [
+          "Product"
+        ],
+        "start": 196,
+        "text": "add lobster 21.00"
+      },
+      {
+        "end": 242,
+        "labels": [
+          "Product"
+        ],
+        "start": 214,
+        "text": "CK Manhattan (2 @5.00) 10.00"
+      },
+      {
+        "end": 280,
+        "labels": [
+          "Product"
+        ],
+        "start": 243,
+        "text": "WHistle pig rye 10yr (2 @20.00) 40.00"
+      },
+      {
+        "end": 300,
+        "labels": [
+          "Product"
+        ],
+        "start": 281,
+        "text": "(2) BMOD Up Duke 16"
+      },
+      {
+        "end": 320,
+        "labels": [
+          "Product"
+        ],
+        "start": 300,
+        "text": "oz top sirloin 34.00"
+      },
+      {
+        "end": 338,
+        "labels": [
+          "Product"
+        ],
+        "start": 321,
+        "text": "make it blue 5.00"
+      },
+      {
+        "end": 354,
+        "labels": [
+          "Amount"
+        ],
+        "start": 339,
+        "text": "subtotal 167.00"
+      },
+      {
+        "end": 364,
+        "labels": [
+          "Amount"
+        ],
+        "start": 355,
+        "text": "tax 12.94"
+      },
+      {
+        "end": 377,
+        "labels": [
+          "Amount"
+        ],
+        "start": 365,
+        "text": "total 179.94"
+      },
+      {
+        "end": 396,
+        "labels": [
+          "Amount"
+        ],
+        "start": 378,
+        "text": "balance due 179.94"
+      }
+    ]
+  },
+  {
+    "text": "Akira 385 Rt @W Gienmont, NY 12077 518-434-8880 www.akirasushigroup.com 2016-11-16 18:58:34 #37 PICKUP Leo Phil QTY ITEM AMT 1. Hi. Chk Steak(K) $22.95 Med Noodle $2.00 1 Sushi deluxe $20.75 1 Glenmont Roll $15.95 1 Philly R $6.50 2 Sp Tuna R $13.00 1 1 Salmon R $5.50 subtotal $86.65 tax: $6.93 total $93.58 unpaid",
+    "label": [
+      {
+        "end": 5,
+        "labels": [
+          "Company"
+        ],
+        "start": 0,
+        "text": "Akira"
+      },
+      {
+        "end": 47,
+        "labels": [
+          "Address"
+        ],
+        "start": 6,
+        "text": "385 Rt @W Gienmont, NY 12077 518-434-8880"
+      },
+      {
+        "end": 71,
+        "labels": [
+          "Email"
+        ],
+        "start": 48,
+        "text": "www.akirasushigroup.com"
+      },
+      {
+        "end": 82,
+        "labels": [
+          "Date"
+        ],
+        "start": 72,
+        "text": "2016-11-16"
+      },
+      {
+        "end": 91,
+        "labels": [
+          "Time"
+        ],
+        "start": 83,
+        "text": "18:58:34"
+      },
+      {
+        "end": 95,
+        "labels": [
+          "Invoice"
+        ],
+        "start": 92,
+        "text": "#37"
+      },
+      {
+        "end": 111,
+        "labels": [
+          "Person"
+        ],
+        "start": 103,
+        "text": "Leo Phil"
+      },
+      {
+        "end": 151,
+        "labels": [
+          "Product"
+        ],
+        "start": 125,
+        "text": "1. Hi. Chk Steak(K) $22.95"
+      },
+      {
+        "end": 168,
+        "labels": [
+          "Product"
+        ],
+        "start": 152,
+        "text": "Med Noodle $2.00"
+      },
+      {
+        "end": 190,
+        "labels": [
+          "Product"
+        ],
+        "start": 169,
+        "text": "1 Sushi deluxe $20.75"
+      },
+      {
+        "end": 213,
+        "labels": [
+          "Product"
+        ],
+        "start": 191,
+        "text": "1 Glenmont Roll $15.95"
+      },
+      {
+        "end": 230,
+        "labels": [
+          "Product"
+        ],
+        "start": 214,
+        "text": "1 Philly R $6.50"
+      },
+      {
+        "end": 249,
+        "labels": [
+          "Product"
+        ],
+        "start": 231,
+        "text": "2 Sp Tuna R $13.00"
+      },
+      {
+        "end": 268,
+        "labels": [
+          "Product"
+        ],
+        "start": 252,
+        "text": "1 Salmon R $5.50"
+      },
+      {
+        "end": 284,
+        "labels": [
+          "Amount"
+        ],
+        "start": 269,
+        "text": "subtotal $86.65"
+      },
+      {
+        "end": 295,
+        "labels": [
+          "Amount"
+        ],
+        "start": 285,
+        "text": "tax: $6.93"
+      },
+      {
+        "end": 308,
+        "labels": [
+          "Amount"
+        ],
+        "start": 296,
+        "text": "total $93.58"
+      }
+    ]
+  }
+]
