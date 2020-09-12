@@ -1,0 +1,17 @@
+{% extends 'open_pdf/base.html' %}
+{% load static %}
+
+{% block title_block %}
+    Annotate
+{% endblock %}
+
+{% block body_block %}
+    {% if images %}
+        {% for image in images %}
+            <img src="{{image}}" width="80%" class="mb-5"/>
+        {% endfor %}
+    {% else %}
+        <h1> No images in PDF</h1>
+    {% endif %}
+
+{% endblock %}

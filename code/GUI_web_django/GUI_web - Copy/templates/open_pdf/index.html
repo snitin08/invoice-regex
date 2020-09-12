@@ -1,0 +1,17 @@
+{% extends 'open_pdf/base.html' %}
+{% load static %}
+
+{% block title_block %}
+    INDEX
+{% endblock %}
+
+{% block body_block %}
+    
+    <h1 class="display-1"> Select a PDF</h1>
+    <form action="{% url 'open_pdf:view_pdf' %}" method="POST" class="form-group" enctype="multipart/form-data">
+        {% csrf_token %}
+        <input type="file" name="filename" value="SELECT FILE" class="form-control">
+        <input type="submit" class="btn btn-primary btn-lg" class="form-control">
+    </form>
+
+{% endblock %}
